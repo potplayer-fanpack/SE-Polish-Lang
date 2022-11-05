@@ -1166,17 +1166,17 @@ Aby użyć klucza API przejdź do "Opcje -&gt; Ustawienia -&gt; Narzędzia", aby
         <Compare>&amp;Porównywaj...</Compare>
         <Statistics>S&amp;tatystyki...</Statistics>
         <Plugins>&amp;Wtyczki...</Plugins>
-        <ImportSubtitleFromVideoFile>Importuj napisy z pliku wideo</ImportSubtitleFromVideoFile>
-        <ImportOcrFromDvd>Importuj napisy z VOB/IFO (DVD)...</ImportOcrFromDvd>
-        <ImportOcrVobSubSubtitle>Importuj napisy VobSub (sub/idx) do OCR...</ImportOcrVobSubSubtitle>
-        <ImportBluRaySupFile>Importuj plik napisów Blu-ray (.sup) do OCR...</ImportBluRaySupFile>
-        <ImportBluRaySupFileEdit>Importuj plik napisów Blu-ray (.sup) do edycji...</ImportBluRaySupFileEdit>
-        <ImportSubtitleWithManualChosenEncoding>Importuj napisy z ręcznie wybranym kodowaniem...</ImportSubtitleWithManualChosenEncoding>
-        <ImportText>Importuj zwykły tekst...</ImportText>
-        <ImportImages>Importuj obrazy...</ImportImages>
-        <ImportTimecodes>Importuj kody czasowe...</ImportTimecodes>
-        <Import>Import</Import>
-        <Export>Eksport</Export>
+        <ImportSubtitleFromVideoFile>Napisy z pliku wideo...</ImportSubtitleFromVideoFile>
+        <ImportOcrFromDvd>Napisy z VOB/IFO (DVD)...</ImportOcrFromDvd>
+        <ImportOcrVobSubSubtitle>Napisy VobSub (sub/idx) do OCR...</ImportOcrVobSubSubtitle>
+        <ImportBluRaySupFile>Plik napisów Blu-ray (.sup) do OCR...</ImportBluRaySupFile>
+        <ImportBluRaySupFileEdit>Plik napisów Blu-ray (.sup) do edycji...</ImportBluRaySupFileEdit>
+        <ImportSubtitleWithManualChosenEncoding>Napisy z ręcznie wybranym kodowaniem...</ImportSubtitleWithManualChosenEncoding>
+        <ImportText>Zwykły tekst...</ImportText>
+        <ImportImages>Obrazy...</ImportImages>
+        <ImportTimecodes>Kody czasowe...</ImportTimecodes>
+        <Import>Importuj</Import>
+        <Export>Eksportuj</Export>
         <ExportBdnXml>BDN xml/png...</ExportBdnXml>
         <ExportBluRaySup>Blu-ray sup...</ExportBluRaySup>
         <ExportVobSub>VobSub (sub/idx)...</ExportVobSub>
