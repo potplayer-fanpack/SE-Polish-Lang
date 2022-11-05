@@ -1,3 +1,31 @@
 # SE-Polish-Lang
 Polish language for Subtitle Edit
-The latest and always up-to-date dictionary files can be found at this address - https://sjp.pl/sl/ort/.
+
+English:
+========
+
+This dictionary for spell-checking Polish texts is licensed under
+GPL 2, LGPL 2.1, MPL (Mozilla Public License) 1.1, Apache 2.0 and
+Creative Commons Attribution 4.0 International
+
+This version of the dictionary was generated on 2022-11-01
+
+https://sjp.pl/sl/en/
+
+Contact: sjpslownik@gmail.com
+
+
+Polski:
+=======
+
+Slownik do sprawdzania pisowni jest udostepniany na licencjach
+GPL 2, LGPL 2.1, MPL (Mozilla Public License) 1.1, Apache 2.0 i
+Creative Commons Attribution 4.0 International
+
+Data utworzenia tej wersji: 2022-11-01
+
+https://sjp.pl
+
+Contact: sjpslownik@gmail.com
+
+Latest dictionary for spell-checking Polish texts can be found at this address - https://sjp.pl/sl/ort/.
