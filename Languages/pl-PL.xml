@@ -1163,7 +1163,7 @@ Aby użyć klucza API przejdź do "Opcje -&gt; Ustawienia -&gt; Narzędzia", aby
         <SaveOriginal>Zapisz oryginalne napisy</SaveOriginal>
         <CloseOriginal>Zamknij oryginalne napisy</CloseOriginal>
         <OpenContainingFolder>Otwórz folder z zawartością</OpenContainingFolder>
-        <Compare>&amp;Porównywaj...</Compare>
+        <Compare>&amp;Porównaj...</Compare>
         <Statistics>S&amp;tatystyki...</Statistics>
         <Plugins>&amp;Wtyczki...</Plugins>
         <ImportSubtitleFromVideoFile>Napisy z pliku wideo...</ImportSubtitleFromVideoFile>
@@ -1175,8 +1175,8 @@ Aby użyć klucza API przejdź do "Opcje -&gt; Ustawienia -&gt; Narzędzia", aby
         <ImportText>Zwykły tekst...</ImportText>
         <ImportImages>Obrazy...</ImportImages>
         <ImportTimecodes>Kody czasowe...</ImportTimecodes>
-        <Import>Importuj</Import>
-        <Export>Eksportuj</Export>
+        <Import>Import</Import>
+        <Export>Eksport</Export>
         <ExportBdnXml>BDN xml/png...</ExportBdnXml>
         <ExportBluRaySup>Blu-ray sup...</ExportBluRaySup>
         <ExportVobSub>VobSub (sub/idx)...</ExportVobSub>
@@ -1192,7 +1192,7 @@ Aby użyć klucza API przejdź do "Opcje -&gt; Ustawienia -&gt; Narzędzia", aby
         <ExportCaptionsInc>Captions Inc...</ExportCaptionsInc>
         <ExportCheetahCap>Cheetah CAP...</ExportCheetahCap>
         <ExportUltech130>Ultech caption...</ExportUltech130>
-        <ExportCustomTextFormat>Eksportuj niestandardowy format tekstu...</ExportCustomTextFormat>
+        <ExportCustomTextFormat>Niestandardowy format tekstowy...</ExportCustomTextFormat>
         <Exit>Za&amp;kończ</Exit>
       </File>
       <Edit>
