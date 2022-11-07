@@ -1175,8 +1175,8 @@ Aby użyć klucza API przejdź do "Opcje -&gt; Ustawienia -&gt; Narzędzia", aby
         <ImportText>Zwykły tekst...</ImportText>
         <ImportImages>Obrazy...</ImportImages>
         <ImportTimecodes>Kody czasowe...</ImportTimecodes>
-        <Import>Import</Import>
-        <Export>Eksport</Export>
+        <Import>Importuj</Import>
+        <Export>Eksportuj</Export>
         <ExportBdnXml>BDN xml/png...</ExportBdnXml>
         <ExportBluRaySup>Blu-ray sup...</ExportBluRaySup>
         <ExportVobSub>VobSub (sub/idx)...</ExportVobSub>
