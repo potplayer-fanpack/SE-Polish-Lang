@@ -2181,6 +2181,7 @@ może edytować ten sam plik napisów (współpraca)</Information>
     <ApplyAssaOverrideTags>Zastosuj do zaznaczenia tagi zastępowania ASSA</ApplyAssaOverrideTags>
     <SetAssaPosition>Ustaw/Uzyskaj pozycję ASSA</SetAssaPosition>
     <SetAssaResolution>Ustaw rozdzielczość ASSA (PlayResX/PlayResY)</SetAssaResolution>
+    <SetAssaBgBox>Ustaw tło nieprzezroczystego pola ASSA</SetAssaBgBox>
     <TakeAutoBackup>Wykonaj teraz automatyczną kopię zapasową</TakeAutoBackup>
     <ShowLineBreaksAs>Pokaż łamanie linii w "Widoku listy" jako</ShowLineBreaksAs>
     <SaveAsFileNameFrom>"Zapisz jako..." użyje nazwy pliku z</SaveAsFileNameFrom>
@@ -2203,8 +2204,7 @@ może edytować ten sam plik napisów (współpraca)</Information>
     <AutoBackupEveryFifteenMinutes>Co 15 minut</AutoBackupEveryFifteenMinutes>
     <AutoBackupDeleteAfter>Usuwaj po</AutoBackupDeleteAfter>
     <AutoBackupDeleteAfterOneMonth>1 miesiąc</AutoBackupDeleteAfterOneMonth>
-    <AutoBackupDeleteAfterThreeMonths>3 miesiące</AutoBackupDeleteAfterThreeMonths>
-    <AutoBackupDeleteAfterSixMonths>6 miesięcy</AutoBackupDeleteAfterSixMonths>
+    <AutoBackupDeleteAfterXMonths>{0} miesiące\miesięcy</AutoBackupDeleteAfterXMonths>
     <CheckForUpdates>Sprawdź, czy są aktualizacje</CheckForUpdates>
     <AutoSave>Automatyczne zapisywanie</AutoSave>
     <AllowEditOfOriginalSubtitle>Zezwalaj na edycję oryginalnych napisów</AllowEditOfOriginalSubtitle>
