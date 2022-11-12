@@ -2499,11 +2499,11 @@ może edytować ten sam plik napisów (współpraca)</Information>
     <TogglePlayPause>Przełącz odtwarzaj/pauza</TogglePlayPause>
     <Pause>Pauza</Pause>
     <Fullscreen>Pełny ekran</Fullscreen>
-    <Play150Speed>Odtwarzaj wideo z szybkością 1,5x</Play150Speed>
-    <Play200Speed>Odtwarzaj wideo z szybkością 2,0x</Play200Speed>
+    <Play150Speed>Odtwarzaj wideo z szybkością 1.5x</Play150Speed>
+    <Play200Speed>Odtwarzaj wideo z szybkością 2.0x</Play200Speed>
     <PlayRateSlower>Odtwarzaj wolniej</PlayRateSlower>
     <PlayRateFaster>Odtwarzaj szybciej</PlayRateFaster>
-    <PlayRateToggle>Przełączanie szybkości odtwarzania (0,5x, 1x, 1,5x, 2x)</PlayRateToggle>
+    <PlayRateToggle>Przełączanie szybkości odtwarzania (0.5x, 1x, 1.5x, 2x)</PlayRateToggle>
     <VideoResetSpeedAndZoom>Resetuj szybkość/zoom</VideoResetSpeedAndZoom>
     <MainToggleVideoControls>Przełącz elementy sterujące wideo</MainToggleVideoControls>
     <VideoToggleContrast>Przełącz kontrast (tylko mpv)</VideoToggleContrast>
