@@ -3046,6 +3046,7 @@ Zachować te zmiany?</KeepChangesMessage>
     <CloudVisionApi>API Google Cloud Vision</CloudVisionApi>
     <ApiKey>Klucz API</ApiKey>
     <SendOriginalImages>Wyślij oryginalne obrazy</SendOriginalImages>
+    <SeHandlesTextMerge>SE obsługuje scalanie tekstu</SeHandlesTextMerge>
   </VobSubOcr>
   <VobSubOcrCharacter>
     <Title>OCR - Ręcznie obraz do tekstu</Title>
