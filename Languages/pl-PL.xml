@@ -2205,6 +2205,7 @@ może edytować ten sam plik napisów (współpraca)</Information>
     <AutoBackupEveryFiveMinutes>Co 5 minut</AutoBackupEveryFiveMinutes>
     <AutoBackupEveryFifteenMinutes>Co 15 minut</AutoBackupEveryFifteenMinutes>
     <AutoBackupDeleteAfter>Usuwaj po</AutoBackupDeleteAfter>
+    <TranslationAutoSuffix>Automatyczny sufiks nazwy pliku tłumaczenia</TranslationAutoSuffix>
     <AutoBackupDeleteAfterOneMonth>1 miesiąc</AutoBackupDeleteAfterOneMonth>
     <AutoBackupDeleteAfterXMonths>{0} miesiące(y)</AutoBackupDeleteAfterXMonths>
     <CheckForUpdates>Sprawdź, czy są aktualizacje</CheckForUpdates>
