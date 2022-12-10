@@ -1164,6 +1164,7 @@ Aby użyć klucza API przejdź do "Opcje -&gt; Ustawienia -&gt; Narzędzia", aby
         <OpenOriginal>Otwórz oryginalne napisy (tryb tłumacza)...</OpenOriginal>
         <SaveOriginal>Zapisz oryginalne napisy</SaveOriginal>
         <CloseOriginal>Zamknij oryginalne napisy</CloseOriginal>
+        <CloseTranslation>Zamknij przetłumaczone napisy</CloseTranslation>
         <OpenContainingFolder>Otwórz folder z zawartością</OpenContainingFolder>
         <Compare>&amp;Porównaj...</Compare>
         <Statistics>S&amp;tatystyki...</Statistics>
