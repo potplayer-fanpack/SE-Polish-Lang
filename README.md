@@ -8,7 +8,7 @@ This dictionary for spell-checking Polish texts is licensed under
 GPL 2, LGPL 2.1, MPL (Mozilla Public License) 1.1, Apache 2.0 and
 Creative Commons Attribution 4.0 International
 
-This version of the dictionary was generated on 2022-11-01
+This version of the dictionary was generated on 2022-12-01
 
 https://sjp.pl/sl/en/
 
@@ -22,7 +22,7 @@ Slownik do sprawdzania pisowni jest udostepniany na licencjach
 GPL 2, LGPL 2.1, MPL (Mozilla Public License) 1.1, Apache 2.0 i
 Creative Commons Attribution 4.0 International
 
-Data utworzenia tej wersji: 2022-11-01
+Data utworzenia tej wersji: 2022-12-01
 
 https://sjp.pl
 
