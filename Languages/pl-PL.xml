@@ -153,7 +153,7 @@ Uwaga: Sprawdź ilość wolnego miejsca na dysku.</WaveFileMalformed>
   <AddWaveformBatch>
     <Title>Wsadowe generowanie wykresów falowych</Title>
     <ExtractingAudio>Wyodrębnianie dźwięku...</ExtractingAudio>
-    <Calculating>Obliczenie...</Calculating>
+    <Calculating>Obliczanie...</Calculating>
     <Done>Gotowe</Done>
     <Error>Błąd</Error>
   </AddWaveformBatch>
@@ -2880,6 +2880,7 @@ Kontynuować?</RestoreDefaultSettingsMsg>
     <CopyXOfY>Kopiuj {0} z {1}</CopyXOfY>
     <New>Nowy</New>
     <Remove>Usuń</Remove>
+    <ReplaceWith>Zastąp...</ReplaceWith>
     <RemoveAll>Usuń wszystko</RemoveAll>
     <ImportStyleFromFile>Importuj styl z pliku...</ImportStyleFromFile>
     <ExportStyleToFile>Eksportuj styl do pliku... (doda styl, jeśli plik już istnieje)</ExportStyleToFile>
