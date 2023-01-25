@@ -24,7 +24,7 @@ Creative Commons Attribution 4.0 International
 
 Data utworzenia tej wersji: 2023-01-01
 
-https://sjp.pl/sl/ort/
+https://sjp.pl/
 
 Contact: sjpslownik@gmail.com
 
