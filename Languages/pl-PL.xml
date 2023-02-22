@@ -332,7 +332,7 @@ Chcesz przeczytać więcej informacji (w sieci)?</WhisperNotFound>
     <FilterMoreThanTwoLines>Więcej, niż dwie linie w jednym napisie</FilterMoreThanTwoLines>
     <FilterContains>Tekst zawiera...</FilterContains>
     <FilterFileNameContains>Nazwa pliku zawiera...</FilterFileNameContains>
-    <LanguageCodeContains>Kod języka zawiera...</LanguageCodeContains>
+    <LanguageCodeContains>Kod języka (mkv/mp4) zawiera...</LanguageCodeContains>
     <FixCommonErrorsErrorX>Poprawiono najczęstsze błędy: {0}</FixCommonErrorsErrorX>
     <MultipleReplaceErrorX>Wielokrotne zastępowanie: {0}</MultipleReplaceErrorX>
     <AutoBalanceErrorX>Automatyczne równoważenie linii: {0}</AutoBalanceErrorX>
