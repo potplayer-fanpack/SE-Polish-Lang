@@ -879,6 +879,8 @@ Chcesz przeczytać więcej informacji (w sieci)?</WhisperNotFound>
     <Crf>CRF</Crf>
     <TuneFor>Dostrój do</TuneFor>
     <AlignRight>Wyrównaj do prawej</AlignRight>
+    <GetStartPosition>Pobierz pozycję początkową</GetStartPosition>
+    <GetEndPosition>Pobierz pozycję zakończenia</GetEndPosition>
   </GenerateVideoWithBurnedInSubs>
   <GetDictionaries>
     <Title>Potrzebujesz słowników?</Title>
@@ -1369,6 +1371,7 @@ Aby użyć klucza API przejdź do "Opcje -&gt; Ustawienia -&gt; Narzędzia", aby
         <Paste>Wklej</Paste>
         <Delete>Usuń</Delete>
         <SplitLineAtCursorPosition>Podziel linię w pozycji kursora</SplitLineAtCursorPosition>
+        <SplitLineAtCursorPositionAndAutoBr>Podziel linię w pozycji kursora i automatycznie przełam linię</SplitLineAtCursorPositionAndAutoBr>
         <SplitLineAtCursorAndWaveformPosition>Podziel linię w pozycji kursora/wideo</SplitLineAtCursorAndWaveformPosition>
         <AutoDurationCurrentLine>Automatyczny czas trwania (bieżąca linia)</AutoDurationCurrentLine>
         <SelectAll>Zaznacz wszystko</SelectAll>
