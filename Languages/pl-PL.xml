@@ -882,6 +882,14 @@ Chcesz przeczytać więcej informacji (w sieci)?</WhisperNotFound>
     <GetStartPosition>Pobierz pozycję początkową</GetStartPosition>
     <GetEndPosition>Pobierz pozycję zakończenia</GetEndPosition>
   </GenerateVideoWithBurnedInSubs>
+  <GenerateVideoWithEmbeddedSubs>
+    <Title>Generuj wideo z osadzonymi napisami</Title>
+    <InputVideoFile>Wejściowy plik wideo</InputVideoFile>
+    <SetLanguage>Ustaw język...</SetLanguage>
+    <ToggleForced>Przełączanie wymuszone</ToggleForced>
+    <ToggleDefault>Przełączanie domyślne</ToggleDefault>
+    <XGeneratedWithEmbeddedSubs>"{0}" wygenerowane z osadzonymi napisami</XGeneratedWithEmbeddedSubs>
+  </GenerateVideoWithEmbeddedSubs>
   <GetDictionaries>
     <Title>Potrzebujesz słowników?</Title>
     <DescriptionLine1>Sprawdzanie pisowni w Subtitle Edit oparte jest na silniku NHunspell,</DescriptionLine1>
@@ -1283,6 +1291,7 @@ Aby użyć klucza API przejdź do "Opcje -&gt; Ustawienia -&gt; Narzędzia", aby
         <GenerateTextFromVideo>Wygeneruj tekst z wideo...</GenerateTextFromVideo>
         <GenerateBlankVideo>Wygeneruj puste wideo...</GenerateBlankVideo>
         <GenerateVideoWithBurnedInSub>Wygeneruj wideo z wtopionymi napisami...</GenerateVideoWithBurnedInSub>
+        <GenerateVideoWithEmbeddedSubs>Wygeneruj wideo z osadzonymi napisami...</GenerateVideoWithEmbeddedSubs>
         <VideoAudioToTextX>Audio na tekst ({0})...</VideoAudioToTextX>
         <ImportChaptersFromVideo>Importuj rozdziały z wideo</ImportChaptersFromVideo>
         <GenerateImportShotChanges>Generuj/importuj zmiany kadru...</GenerateImportShotChanges>
