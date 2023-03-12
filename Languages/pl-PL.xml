@@ -887,10 +887,10 @@ Chcesz przeczytać więcej informacji (w sieci)?</WhisperNotFound>
     <InputVideoFile>Wejściowy plik wideo</InputVideoFile>
     <SubtitlesX>Napisy ({0})</SubtitlesX>
     <SetLanguage>Ustaw język...</SetLanguage>
-    <ToggleForced>Przełączanie wymuszone</ToggleForced>
-    <ToggleDefault>Przełączanie domyślne</ToggleDefault>
+    <ToggleForced>Przeł. wymuszone</ToggleForced>
+    <ToggleDefault>Przełącz domyślne</ToggleDefault>
     <Default>Domyślne</Default>
-    <XGeneratedWithEmbeddedSubs>"{0}" wygenerowane z osadzonymi napisami</XGeneratedWithEmbeddedSubs>
+    <XGeneratedWithEmbeddedSubs>Wygenerowano "{0}" z osadzonymi napisami</XGeneratedWithEmbeddedSubs>
   </GenerateVideoWithEmbeddedSubs>
   <GetDictionaries>
     <Title>Potrzebujesz słowników?</Title>
@@ -1180,7 +1180,7 @@ Aby użyć klucza API przejdź do "Opcje -&gt; Ustawienia -&gt; Narzędzia", aby
         <SaveOriginal>Zapisz oryginalne napisy</SaveOriginal>
         <CloseOriginal>Zamknij oryginalne napisy</CloseOriginal>
         <CloseTranslation>Zamknij przetłumaczone napisy</CloseTranslation>
-        <OpenContainingFolder>Otwórz folder z zawartością</OpenContainingFolder>
+        <OpenContainingFolder>Otwórz folder zawierający wideo</OpenContainingFolder>
         <Compare>&amp;Porównaj...</Compare>
         <Statistics>S&amp;tatystyki...</Statistics>
         <Plugins>&amp;Wtyczki...</Plugins>
