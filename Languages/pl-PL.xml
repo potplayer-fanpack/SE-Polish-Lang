@@ -885,9 +885,11 @@ Chcesz przeczytać więcej informacji (w sieci)?</WhisperNotFound>
   <GenerateVideoWithEmbeddedSubs>
     <Title>Generuj wideo z osadzonymi napisami</Title>
     <InputVideoFile>Wejściowy plik wideo</InputVideoFile>
+    <SubtitlesX>Napisy ({0})</SubtitlesX>
     <SetLanguage>Ustaw język...</SetLanguage>
     <ToggleForced>Przełączanie wymuszone</ToggleForced>
     <ToggleDefault>Przełączanie domyślne</ToggleDefault>
+    <Default>Domyślne</Default>
     <XGeneratedWithEmbeddedSubs>"{0}" wygenerowane z osadzonymi napisami</XGeneratedWithEmbeddedSubs>
   </GenerateVideoWithEmbeddedSubs>
   <GetDictionaries>
