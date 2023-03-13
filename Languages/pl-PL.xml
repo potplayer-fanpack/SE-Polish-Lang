@@ -855,6 +855,8 @@ Chcesz przeczytać więcej informacji (w sieci)?</WhisperNotFound>
     <SolidColor>Jednolity kolor</SolidColor>
     <DurationInMinutes>Czas trwania w minutach</DurationInMinutes>
     <Background>Tło</Background>
+    <FfmpegParameters>Uruchom FFmpeg z następującymi parametrami:</FfmpegParameters>
+    <GenerateWithFfmpegParametersPrompt>Generuj - podpowiedz parametry FFmpeg</GenerateWithFfmpegParametersPrompt>
   </GenerateBlankVideo>
   <GenerateVideoWithBurnedInSubs>
     <Title>Wygeneruj wideo z wtopionymi napisami</Title>
@@ -2662,6 +2664,7 @@ Kontynuować?</RestoreDefaultSettingsMsg>
     <PreviewPause>(pauza)</PreviewPause>
     <CustomContinuationStyleNote>Uwaga: Niestandardowy styl kontynuacji jest wspólny dla wszystkich profili.</CustomContinuationStyleNote>
     <ResetCustomContinuationStyleWarning>Zastąpi to wartości w oknie dialogowym. Jesteś pewny?</ResetCustomContinuationStyleWarning>
+    <ExportAsHtml>Eksportuj jako HTML...</ExportAsHtml>
   </Settings>
   <SettingsMpv>
     <DownloadMpv>Pobierz bibliotekę mpv</DownloadMpv>
