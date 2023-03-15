@@ -2465,6 +2465,7 @@ może edytować ten sam plik napisów (współpraca)</Information>
     <ToggleDialogDashes>Przełącz myślniki dialogów</ToggleDialogDashes>
     <ToggleQuotes>Przełącz cudzysłowy</ToggleQuotes>
     <ToggleHiTags>Przełącz tagi dla osób niedosłyszących</ToggleHiTags>
+    <ToggleCustomTags>Przełącz tagi niestandardowe</ToggleCustomTags>
     <ToggleMusicSymbols>Przełącz symbole muzyczne</ToggleMusicSymbols>
     <Alignment>Wyrównanie (wybrane linie)</Alignment>
     <AlignmentN1>Wyrównanie - u dołu po lewej - {\an1}</AlignmentN1>
@@ -2522,6 +2523,8 @@ może edytować ten sam plik napisów (współpraca)</Information>
     <LoopSelectedLines>Zapętlaj wybrane linie</LoopSelectedLines>
     <WaveformGoToPrevSubtitle>Przejdź do poprzedniej linii napisów (z pozycji wideo)</WaveformGoToPrevSubtitle>
     <WaveformGoToNextSubtitle>Przejdź do następnej linii napisów (z pozycji wideo)</WaveformGoToNextSubtitle>
+    <WaveformGoToPrevTimeCode>Przejdź do poprzedniego kodu czasowego (z pozycji wideo)</WaveformGoToPrevTimeCode>
+    <WaveformGoToNextTimeCode>Przejdź do następnego kodu czasowego (z pozycji wideo)</WaveformGoToNextTimeCode>
     <WaveformGoToPrevChapter>Przejdź do poprzedniego rozdziału</WaveformGoToPrevChapter>
     <WaveformGoToNextChapter>Przejdź do następnego rozdziału</WaveformGoToNextChapter>
     <WaveformSelectNextSubtitle>Wybierz następny napis (z pozycji wideo, zachowaj pozycję wideo)</WaveformSelectNextSubtitle>
@@ -2650,6 +2653,7 @@ Kontynuować?</RestoreDefaultSettingsMsg>
     <BDOpensInOcr>OCR</BDOpensInOcr>
     <BDOpensInEdit>Edycja</BDOpensInEdit>
     <ShortcutsAllowSingleLetterOrNumberInTextBox>Skróty: Zezwalaj na pojedyncze litery/cyfry w polu tekstowym</ShortcutsAllowSingleLetterOrNumberInTextBox>
+    <ShortcutCustomToggle>Skrót przełącza niestandardowy początek/koniec</ShortcutCustomToggle>
     <UpdateFileTypeAssociations>Zaktualizuj skojarzenia typów plików</UpdateFileTypeAssociations>
     <FileTypeAssociationsUpdated>Zaktualizowano skojarzenia typów plików</FileTypeAssociationsUpdated>
     <CustomContinuationStyle>Edytuj niestandardowy styl kontynuacji</CustomContinuationStyle>
