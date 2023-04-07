@@ -725,7 +725,8 @@ Chcesz przeczytać więcej informacji (w sieci)?</WhisperNotFound>
   </ExtractDateTimeInfo>
   <FindDialog>
     <Title>Znajdź</Title>
-    <Find>&amp;Znajdź</Find>
+    <FindNext>&amp;Znajdź następne wystąpienie</FindNext>
+    <FindPrevious>Znajdź &amp;poprzednie wystąpienie</FindPrevious>
     <Normal>&amp;Normalny tryb wyszukiwania</Normal>
     <CaseSensitive>Uwzględnij wielkość liter</CaseSensitive>
     <RegularExpression>Wyrażenie &amp;regularne</RegularExpression>
@@ -860,8 +861,8 @@ Chcesz przeczytać więcej informacji (w sieci)?</WhisperNotFound>
   </GenerateBlankVideo>
   <GenerateVideoWithBurnedInSubs>
     <Title>Wygeneruj wideo z wtopionymi napisami</Title>
-    <InfoAssaOff>Uwaga: Obsługiwana jest stylizacja Advanced Substation Alpha.</InfoAssaOff>
-    <InfoAssaOn>Uwaga: Zostanie zastosowana stylizacja Advanced Substation Alpha :)</InfoAssaOn>
+    <InfoAssaOff>Uwaga: Obsługiwana jest stylizacja Advanced SubStation Alpha.</InfoAssaOff>
+    <InfoAssaOn>Uwaga: Zostanie zastosowana stylizacja Advanced SubStation Alpha :)</InfoAssaOn>
     <XGeneratedWithBurnedInSubsInX>Wygenerowano "{0}" z wtopionymi napisami w {1}.</XGeneratedWithBurnedInSubsInX>
     <TimeRemainingMinutes>Pozostały czas: {0} minut</TimeRemainingMinutes>
     <TimeRemainingSeconds>Pozostały czas: {0} sekund</TimeRemainingSeconds>
