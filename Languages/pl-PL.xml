@@ -179,6 +179,7 @@ Uwaga: Sprawdź ilość wolnego miejsca na dysku.</WaveFileMalformed>
     <Title>Audio na tekst</Title>
     <Info>Generowanie tekstu z audio za pomocą funkcji rozpoznawania mowy Vosk/Kaldi</Info>
     <WhisperInfo>Generowanie tekstu z audio za pomocą funkcji rozpoznawania mowy Whisper</WhisperInfo>
+    <Engine>Silnik</Engine>
     <VoskWebsite>Strona internetowa Vosk</VoskWebsite>
     <WhisperWebsite>Strona internetowa Whisper</WhisperWebsite>
     <WhisperNotFound>Nie znaleziono aplikacji Whisper.
