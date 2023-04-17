@@ -397,6 +397,7 @@ Chcesz przeczytać więcej informacji (w sieci)?</WhisperNotFound>
     <OnlyChangeAllUppercaseLines>Zmień tylko wszystkie linie pisane dużymi literami</OnlyChangeAllUppercaseLines>
     <AllUppercase>WSZYSTKIE DUŻE LITERY</AllUppercase>
     <AllLowercase>wszystkie małe litery</AllLowercase>
+    <ProperCase>Duże pierwsze litery wyrazów</ProperCase>
   </ChangeCasing>
   <ChangeCasingNames>
     <Title>Zmiana pisowni - Nazwy własne</Title>
@@ -2099,6 +2100,9 @@ może edytować ten sam plik napisów (współpraca)</Information>
     <Find>&amp;Znajdź</Find>
     <Replace>Zas&amp;tąp</Replace>
     <ReplaceAll>Zastąp &amp;wszystko</ReplaceAll>
+    <TranslationAndOriginal>Tłumaczenie i oryginał</TranslationAndOriginal>
+    <TranslationOnly>Tylko tłumaczenie</TranslationOnly>
+    <OriginalOnly>Tylko oryginał</OriginalOnly>
   </ReplaceDialog>
   <RestoreAutoBackup>
     <Title>Przywróć automatyczną kopię zapasową</Title>
