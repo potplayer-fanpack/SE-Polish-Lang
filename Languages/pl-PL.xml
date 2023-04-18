@@ -200,6 +200,8 @@ Chcesz przeczytać więcej informacji (w sieci)?</WhisperNotFound>
     <KeepPartialTranscription>Zachowaj częściową transkrypcję</KeepPartialTranscription>
     <TranslateToEnglish>Przetłumacz na angielski</TranslateToEnglish>
     <MaxCharsPerSubtitle>Max. znaków na linię napisów</MaxCharsPerSubtitle>
+    <RemoveTemporaryFiles>Usuń pliki tymczasowe</RemoveTemporaryFiles>
+    <SetCppConstMeFolder>Ustaw folder modeli CPP/Const-me...</SetCppConstMeFolder>
   </AudioToText>
   <AssaAttachments>
     <Title>Załączniki Advanced Sub Station Alpha</Title>
