@@ -64,6 +64,7 @@
     <OverlapPreviousLineX>Nakładanie się na poprzednią linię ({0:#,##0.###})</OverlapPreviousLineX>
     <OverlapX>Nakładanie się ({0:#,##0.###})</OverlapX>
     <OverlapNextX>Nakładanie się na następną linię ({0:#,##0.###})</OverlapNextX>
+    <OverlapStartAndEnd>Nakładanie się początku i końca</OverlapStartAndEnd>
     <Negative>Negatywny</Negative>
     <RegularExpressionIsNotValid>Wyrażenie regularne jest nieprawidłowe!</RegularExpressionIsNotValid>
     <CurrentSubtitle>Bieżące napisy</CurrentSubtitle>
@@ -2102,6 +2103,7 @@ może edytować ten sam plik napisów (współpraca)</Information>
     <Find>&amp;Znajdź</Find>
     <Replace>Zas&amp;tąp</Replace>
     <ReplaceAll>Zastąp &amp;wszystko</ReplaceAll>
+    <FindReplaceIn>Zastąp/Szukaj w:</FindReplaceIn>
     <TranslationAndOriginal>Tłumaczenie i oryginał</TranslationAndOriginal>
     <TranslationOnly>Tylko tłumaczenie</TranslationOnly>
     <OriginalOnly>Tylko oryginał</OriginalOnly>
