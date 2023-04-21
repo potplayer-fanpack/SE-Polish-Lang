@@ -358,6 +358,7 @@ Chcesz przeczytać więcej informacji (w sieci)?</WhisperNotFound>
     <MkvLanguageStyleTwoLetter>Dwuliterowy kod języka</MkvLanguageStyleTwoLetter>
     <MkvLanguageStyleThreeLetter>Trzyliterowy kod języka</MkvLanguageStyleThreeLetter>
     <MkvLanguageStyleEmpty>Brak kodu języka</MkvLanguageStyleEmpty>
+    <SearchFolderScanVideo>Skanuj także pliki wideo w "Folder wyszukiwania" (wolno)</SearchFolderScanVideo>
   </BatchConvert>
   <BinEdit>
     <ImportImage>Importuj obraz...</ImportImage>
