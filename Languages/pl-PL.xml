@@ -2787,6 +2787,7 @@ Kontynuować?</RestoreDefaultSettingsMsg>
     <NumberOfSplits>Liczba przełamanych/podzielonych: {0}</NumberOfSplits>
     <LongestSingleLineIsXAtY>Najdłuższą pojedynczą linią jest linia o nr {1} - zawiera {0} znaków</LongestSingleLineIsXAtY>
     <LongestLineIsXAtY>Ogólnie najdłuższą linią jest linia o nr {1} - zawiera {0} znaków&lt;</LongestLineIsXAtY>
+    <SplitAtLineBreaks>Podział w miejscach przełamywania linii</SplitAtLineBreaks>
   </SplitLongLines>
   <SplitSubtitle>
     <Title>Podziel napisy</Title>
