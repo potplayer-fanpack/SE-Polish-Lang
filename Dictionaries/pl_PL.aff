@@ -5403,8 +5403,9 @@ SFX P   o         y         ³o
 SFX P   ³o        le        ³o
 SFX P   o         em        ³o
 
-SFX R Y 111
+SFX R Y 112
 SFX R   ech       chu       ech
+SFX R   ech       chowi     ech
 SFX R   ech       chem      ech
 SFX R   ec        cu        [^i]ec
 SFX R   ec        cowi      [^i]ec
@@ -6050,7 +6051,7 @@ SFX U   o         zie       [^a]zdo
 SFX U   azdo      e¼dzie    azdo
 SFX U   o         ie        bo
 
-SFX V Y 79
+SFX V Y 78
 SFX V   um        a         um
 SFX V   0         ta        [^i]ê
 SFX V   ê         ona       miê
@@ -6077,8 +6078,7 @@ SFX V   e         i         [^oe]le
 SFX V   e         i         [^p]ole
 SFX V   e         i         [od]pole
 SFX V   e         i         zele
-SFX V   e         0         sele
-SFX V   ele       ó³        iele
+SFX V   e         0         [is]ele
 SFX V   cie       æ         [iruy]cie
 SFX V   e         0         [e]cie
 SFX V   cie       æ         [ê¶]cie
@@ -6111,7 +6111,7 @@ SFX V   o         0         [pioa]no
 SFX V   e         0         [bmswz]ie
 SFX V   e         0         [sw]ce
 SFX V   o         0         [psw]o
-SFX V   o         0         [^iz]zo
+SFX V   o         0         [^z]zo
 SFX V   0         m         o
 SFX V   e         om        e
 SFX V   um        om        um
@@ -7017,8 +7017,8 @@ SFX y   y         ie        iwy
 SFX y   y         o         [^iêrs]ty
 SFX y   ty        cie       [iêr]ty
 SFX y   sty       ¶cie      sty
-SFX y   y         o         [^d]ry
-SFX y   y         ze        dry
+SFX y   y         o         [^bd]ry
+SFX y   y         ze        [bd]ry
 SFX y   ³y        le        [^bosz]³y
 SFX y   y         o         b³y
 SFX y   y         o         o³y
