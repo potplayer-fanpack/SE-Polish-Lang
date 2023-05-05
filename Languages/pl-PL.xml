@@ -1497,7 +1497,7 @@ Aby użyć klucza API przejdź do "Opcje -&gt; Ustawienia -&gt; Narzędzia", aby
       <AutoContinueInOneSecond>Automatycznie kontynuuj po 1 sekundzie</AutoContinueInOneSecond>
       <AutoContinueInXSeconds>Automatycznie kontynuuj po {0} sekundach</AutoContinueInXSeconds>
       <StillTypingAutoContinueStopped>Trwa pisanie... przejście do następnego napisu zostało zatrzymane</StillTypingAutoContinueStopped>
-      <InsertNewSubtitleAtVideoPosition>&amp;Wstaw nowe napisy w pozycji wideo</InsertNewSubtitleAtVideoPosition>
+      <InsertNewSubtitleAtVideoPosition>Wstaw nowe napisy w pozycji wideo</InsertNewSubtitleAtVideoPosition>
       <InsertNewSubtitleAtVideoPositionNoTextBoxFocus>Wstaw nowe napisy w pozycji wideo (bez koncentracji na polu tekstowym)</InsertNewSubtitleAtVideoPositionNoTextBoxFocus>
       <Auto>Auto</Auto>
       <PlayFromJustBeforeText>Odtwarzaj tuż przed tekstem</PlayFromJustBeforeText>
@@ -2264,7 +2264,7 @@ może edytować ten sam plik napisów (współpraca)</Information>
     <MpcHcDescription>Media Player Classic - Home Cinema</MpcHcDescription>
     <MpvPlayer>mpv</MpvPlayer>
     <MpvPlayerDescription>https://mpv.io/ - darmowy, otwarty i wieloplatformowy odtwarzacz multimedialny</MpvPlayerDescription>
-    <MpvHandlesPreviewText>mpv obsługuje tekst podglądu</MpvHandlesPreviewText>
+    <MpvHandlesPreviewText>mpv obsługuje podgląd tekstu</MpvHandlesPreviewText>
     <VlcMediaPlayer>VLC media player</VlcMediaPlayer>
     <VlcMediaPlayerDescription>libvlc.dll z VLC media player 1.1.0 lub nowszego</VlcMediaPlayerDescription>
     <VlcBrowseToLabel>Ścieżka do VLC (wymagana tylko w przypadku korzystania z przenośnej wersji VLC)</VlcBrowseToLabel>
