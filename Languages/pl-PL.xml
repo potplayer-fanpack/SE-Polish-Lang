@@ -2,7 +2,7 @@
 <Language Name="Polish">
   <General>
     <Title>Subtitle Edit</Title>
-    <Version>3.6.12</Version>
+    <Version>3.6.13</Version>
     <TranslatedBy>Tłumaczenie: Adam Malich (mailto:adam_malich@windowslive.com)</TranslatedBy>
     <CultureName>pl-PL</CultureName>
     <HelpFile />
@@ -2401,6 +2401,8 @@ może edytować ten sam plik napisów (współpraca)</Information>
     <UseSyntaxColoring>Użyj kolorowania składni</UseSyntaxColoring>
     <HtmlColor>Kolor HTML</HtmlColor>
     <AssaColor>Kolor ASSA</AssaColor>
+    <Theme>Motyw</Theme>
+    <Automatic>Automatyczny</Automatic>
     <DarkTheme>Ciemny motyw</DarkTheme>
     <DarkThemeEnabled>Użyj ciemnego motywu</DarkThemeEnabled>
     <DarkThemeShowGridViewLines>Pokaż linie siatki widoku listy</DarkThemeShowGridViewLines>
