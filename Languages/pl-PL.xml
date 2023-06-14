@@ -2556,6 +2556,7 @@ może edytować ten sam plik napisów (współpraca)</Information>
     <MainToggleVideoControls>Przełącz elementy sterujące wideo</MainToggleVideoControls>
     <VideoToggleContrast>Przełącz kontrast (tylko mpv)</VideoToggleContrast>
     <AudioToTextX>Audio na tekst ({0})</AudioToTextX>
+    <AudioExtractSelectedLines>Wyodrębnij audio (wybrane linie)</AudioExtractSelectedLines>
     <AudioToTextSelectedLinesX>Audio na tekst wybranych linii ({0})</AudioToTextSelectedLinesX>
     <VideoToggleBrightness>Przełącz jasność (tylko mpv)</VideoToggleBrightness>
     <CustomSearch1>Tłumaczenie, wyszukiwanie niestandardowe 1</CustomSearch1>
