@@ -37,6 +37,7 @@
     <Actor>Aktor</Actor>
     <Gap>Odstęp</Gap>
     <Region>Region</Region>
+    <Layer>Warstwa</Layer>
     <NumberSymbol>Nr</NumberSymbol>
     <Number>Numer</Number>
     <Text>Tekst</Text>
@@ -1474,7 +1475,6 @@ Aby użyć klucza API przejdź do "Opcje -&gt; Ustawienia -&gt; Narzędzia", aby
       <Next>Dalej &gt;</Next>
       <AutoBreak>Auto przełam &amp;linię</AutoBreak>
       <Unbreak>Cofnij łamanie linii</Unbreak>
-      <SetLayer>Ustaw warstwę</SetLayer>
     </Controls>
     <VideoControls>
       <Translate>Tłumacz</Translate>
@@ -3214,4 +3214,7 @@ Zachować te zmiany?</KeepChangesMessage>
     <Title>WebVTT - ustaw nowy głos</Title>
     <VoiceName>Nazwa głosu</VoiceName>
   </WebVttNewVoice>
+  <WebVttStyleManager>
+    <Title>Style WebVTT</Title>
+  </WebVttStyleManager>
 </Language>
