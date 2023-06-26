@@ -1389,6 +1389,9 @@ Aby użyć klucza API przejdź do "Opcje -&gt; Ustawienia -&gt; Narzędzia", aby
         <TimedTextSetLanguage>Tekst czasowy - ustaw język</TimedTextSetLanguage>
         <SamiSetStyle>Sami - ustaw klasę</SamiSetStyle>
         <NuendoSetStyle>Nuendo - ustaw znak</NuendoSetStyle>
+        <WebVttSetStyle>WebVTT - ustaw styl</WebVttSetStyle>
+        <WebVttSetVoice>WebVTT - ustaw głos</WebVttSetVoice>
+        <WebVttBrowserPreview>WebVTT - podgląd w przeglądarce</WebVttBrowserPreview>
         <Cut>Wytnij</Cut>
         <Copy>Kopiuj</Copy>
         <Paste>Wklej</Paste>
