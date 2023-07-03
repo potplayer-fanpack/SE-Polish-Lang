@@ -2278,6 +2278,7 @@ może edytować ten sam plik napisów (współpraca)</Information>
     <ShowFullscreenButton>Pokaż przycisk "Pełny ekran"</ShowFullscreenButton>
     <PreviewFontName>Nazwa czcionki podglądu napisów</PreviewFontName>
     <PreviewFontSize>Rozmiar czcionki podglądu napisów</PreviewFontSize>
+    <PreviewVerticalMargin>Margines pionowy</PreviewVerticalMargin>
     <MainWindowVideoControls>Elementy sterujące wideo w oknie głównym</MainWindowVideoControls>
     <CustomSearchTextAndUrl>Niestandardowe wyszukiwanie tekstu i URL</CustomSearchTextAndUrl>
     <WaveformAppearance>Wygląd wykresu falowego</WaveformAppearance>
