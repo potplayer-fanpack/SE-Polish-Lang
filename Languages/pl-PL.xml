@@ -2412,6 +2412,7 @@ może edytować ten sam plik napisów (współpraca)</Information>
     <DarkTheme>Ciemny motyw</DarkTheme>
     <DarkThemeEnabled>Użyj ciemnego motywu</DarkThemeEnabled>
     <DarkThemeShowGridViewLines>Pokaż linie siatki widoku listy</DarkThemeShowGridViewLines>
+    <GraphicsButtons>Przyciski graficzne</GraphicsButtons>
     <UpdateShortcut>Aktualizuj</UpdateShortcut>
     <FoucsSetVideoPosition>Koncentruj się na ustawionej pozycji wideo</FoucsSetVideoPosition>
     <ToggleDockUndockOfVideoControls>Przełączanie "Przyłącz"/"Odłącz" elementy sterowania wideo</ToggleDockUndockOfVideoControls>
