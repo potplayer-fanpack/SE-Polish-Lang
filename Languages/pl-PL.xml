@@ -3222,4 +3222,9 @@ Zachować te zmiany?</KeepChangesMessage>
   <WebVttStyleManager>
     <Title>Style WebVTT</Title>
   </WebVttStyleManager>
+  <WhisperAdvanced>
+    <Title>Zaawansowany Whisper - dodatkowe argumenty wiersza poleceń</Title>
+    <CommandLineArguments>Dodatkowe pametry dla linii poleceń Whisper:</CommandLineArguments>
+    <Info>Uwaga: Różne implementacje Whisper mają różne parametry wiersza poleceń!</Info>
+  </WhisperAdvanced>
 </Language>
