@@ -33,7 +33,7 @@
     <EndTime>Czas zakończenia</EndTime>
     <Duration>Czas trwania</Duration>
     <CharsPerSec>Znaków/sek.</CharsPerSec>
-    <WordsPerMin>Słów/min.</WordsPerMin>
+    <WordsPerMin>Słów/min</WordsPerMin>
     <Actor>Aktor</Actor>
     <Gap>Odstęp</Gap>
     <Region>Region</Region>
@@ -138,7 +138,7 @@ Chcesz pobrać i używać FFmpeg?</FfmpegNotFound>
     <GeneratingPeakFile>Generowanie pliku wartości szczytowych...</GeneratingPeakFile>
     <GeneratingSpectrogram>Generowanie spektrogramu...</GeneratingSpectrogram>
     <ExtractingSeconds>Wyodrębnianie audio: {0:0.0} sek.</ExtractingSeconds>
-    <ExtractingMinutes>Wyodrębnianie audio: {0}:{1:00} min.</ExtractingMinutes>
+    <ExtractingMinutes>Wyodrębnianie audio: {0}:{1:00} min</ExtractingMinutes>
     <WaveFileNotFound>Nie można znaleźć wyodrębnionego pliku wave!
 Ta funkcja wymaga VLC media player 1.1.x lub nowszego ({0}-bit).
 
@@ -2848,18 +2848,29 @@ Kontynuować?</RestoreDefaultSettingsMsg>
     <SingleLineLengthMinimum>Długość pojedynczej linii - minimalna: {0}</SingleLineLengthMinimum>
     <SingleLineLengthMaximum>Długość pojedynczej linii - maksymalna: {0}</SingleLineLengthMaximum>
     <SingleLineLengthAverage>Długość pojedynczej linii - średnia: {0}</SingleLineLengthAverage>
+    <SingleLineLengthExceedingMaximum>Długość pojedynczej linii - przekroczenie wartości maksymalnej ({0} znaków): {1} ({2:0.00}%)</SingleLineLengthExceedingMaximum>
     <SingleLineWidthMinimum>Szerokość pojedynczej linii - minimum: {0} piks.</SingleLineWidthMinimum>
     <SingleLineWidthMaximum>Szerokość pojedynczej linii - maksimum: {0} pikseli</SingleLineWidthMaximum>
     <SingleLineWidthAverage>Szerokość pojedynczej linii - średnio: {0} pikseli</SingleLineWidthAverage>
+    <SingleLineWidthExceedingMaximum>Szerokość pojedynczej linii - przekroczenie wartości maksymalnej ({0} pikseli): {1} ({2:0.00}%)</SingleLineWidthExceedingMaximum>
     <DurationMinimum>Czas trwania - minimalny: {0:0.000} sekund</DurationMinimum>
     <DurationMaximum>Czas trwania - maksymalny: {0:0.000} sekund</DurationMaximum>
     <DurationAverage>Czas trwania - średni: {0:0.000} sekund</DurationAverage>
+    <DurationExceedingMinimum>Czas trwania - poniżej wartości minimalnej ({0:0.###} sek.): {1} ({2:0.00}%)</DurationExceedingMinimum>
+    <DurationExceedingMaximum>Czas trwania - przekroczenie wartości maksymalnej ({0:0.###} sek.): {1} ({2:0.00}%)</DurationExceedingMaximum>
     <CharactersPerSecondMinimum>Znaków/sekundę - minimalnie: {0:0.000}</CharactersPerSecondMinimum>
     <CharactersPerSecondMaximum>Znaków/sekundę - maksymalnie: {0:0.000}</CharactersPerSecondMaximum>
     <CharactersPerSecondAverage>Znaków/sekundę - średnio: {0:0.000}</CharactersPerSecondAverage>
+    <CharactersPerSecondExceedingOptimal>Znaków/sek. - przekroczenie wartości optymalnej ({0:0.##} ZNS): {1} ({2:0.00}%)</CharactersPerSecondExceedingOptimal>
+    <CharactersPerSecondExceedingMaximum>Znaków/sek. - przekroczenie wartości maksymalnej ({0:0.##} ZNS): {1} ({2:0.00}%)</CharactersPerSecondExceedingMaximum>
+    <WordsPerMinuteMinimum>Słów/min - minimalnie: {0:0.000}</WordsPerMinuteMinimum>
+    <WordsPerMinuteMaximum>Słów/min - maksymalnie: {0:0.000}</WordsPerMinuteMaximum>
+    <WordsPerMinuteAverage>Słów/min - średnio: {0:0.000}</WordsPerMinuteAverage>
+    <WordsPerMinuteExceedingMaximum>Słów/min — przekroczenie wartości maksymalnej ({0} SNM): {1} ({2:0,00}%)</WordsPerMinuteExceedingMaximum>
     <GapMinimum>Odstęp - minimalny: {0:#,##0} ms</GapMinimum>
     <GapMaximum>Odstęp - maksymalny: {0:#,##0} ms</GapMaximum>
     <GapAverage>Odstęp - średni: {0:#,##0.##} ms</GapAverage>
+    <GapExceedingMinimum>Odstęp - poniżej wartości minimalnej ({0:#,##0} ms): {1} ({2:0.00}%)</GapExceedingMinimum>
     <Export>Eksportuj...</Export>
   </Statistics>
   <SubStationAlphaProperties>
