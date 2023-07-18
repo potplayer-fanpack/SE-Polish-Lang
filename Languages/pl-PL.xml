@@ -368,6 +368,7 @@ Chcesz przeczytać więcej informacji (w sieci)?</WhisperNotFound>
   </BatchConvert>
   <BeautifyTimeCodes>
     <Title>Ulepszanie kodów czasowych</Title>
+    <TitleSelectedLines>Ulepszanie kodów czasowych ({0} wybranych linii)</TitleSelectedLines>
     <GroupTimeCodes>Kody czasowe</GroupTimeCodes>
     <AlignTimeCodes>Wyrównaj kody czasowe do kodów czasowych klatki</AlignTimeCodes>
     <ExtractExactTimeCodes>Użyj ffprobe, aby wyodrębnić dokładne kody czasowe klatki</ExtractExactTimeCodes>
@@ -1539,6 +1540,7 @@ Aby użyć klucza API przejdź do "Opcje -&gt; Ustawienia -&gt; Narzędzia", aby
         <KaraokeEffect>Efekt karaoke...</KaraokeEffect>
         <ShowSelectedLinesEarlierLater>Pokaż wybrane linie wcześniej/później...</ShowSelectedLinesEarlierLater>
         <VisualSyncSelectedLines>Synchronizacja wizualna wybranych linii...</VisualSyncSelectedLines>
+        <BeautifyTimeCodesOfSelectedLines>Ulepszanie kodów czasowych wybranych linii...</BeautifyTimeCodesOfSelectedLines>
         <GoogleAndMicrosoftTranslateSelectedLine>Przetłumacz w Google/Microsoft oryginalną linię</GoogleAndMicrosoftTranslateSelectedLine>
         <SelectedLines>Wybrane linie</SelectedLines>
         <TranslateSelectedLines>Przetłumacz wybrane linie...</TranslateSelectedLines>
@@ -1695,7 +1697,9 @@ Czy chcesz zacząć od początku dokumentu i kontynuować wyszukiwanie i zastęp
     <BeforeRenumbering>Przed zmianą numeracji</BeforeRenumbering>
     <RenumberedStartingFromX>Rozpoczęto zmianę numeracji od: {0}</RenumberedStartingFromX>
     <BeforeBeautifyTimeCodes>Przed ulepszaniem kodów czasowych</BeforeBeautifyTimeCodes>
+    <BeforeBeautifyTimeCodesSelectedLines>Przed ulepszeniem kodów czasowych wybranych linii</BeforeBeautifyTimeCodesSelectedLines>
     <BeautifiedTimeCodes>Ulepszono kody czasowe</BeautifiedTimeCodes>
+    <BeautifiedTimeCodesSelectedLines>Ulepszono kody czasowe wybranych linii</BeautifiedTimeCodesSelectedLines>
     <BeforeRemovalOfTextingForHearingImpaired>Przed usunięciem tekstu dla osób niedosłyszących</BeforeRemovalOfTextingForHearingImpaired>
     <TextingForHearingImpairedRemovedOneLine>Usunięcie tekstu dla osób niedosłyszących: Jedna linia</TextingForHearingImpairedRemovedOneLine>
     <TextingForHearingImpairedRemovedXLines>Usunięcie tekstu dla osób niedosłyszących: {0} linii</TextingForHearingImpairedRemovedXLines>
