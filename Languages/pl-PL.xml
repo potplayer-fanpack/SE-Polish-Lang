@@ -155,8 +155,11 @@ Uwaga: Sprawdź ilość wolnego miejsca na dysku.</WaveFileMalformed>
   </AddWaveform>
   <AddWaveformBatch>
     <Title>Wsadowe generowanie wykresów falowych</Title>
+    <ExtractTimeCodes>Wyodrębnij kody czasowe za pomocą FFprobe</ExtractTimeCodes>
     <ExtractingAudio>Wyodrębnianie dźwięku...</ExtractingAudio>
     <Calculating>Obliczanie...</Calculating>
+    <ExtractingTimeCodes>Wyodrębnianie kodów czasowych...</ExtractingTimeCodes>
+    <DetectingShotChanges>Wykrywanie zmian ujęcia...</DetectingShotChanges>
     <Done>Gotowe</Done>
     <Error>Błąd</Error>
   </AddWaveformBatch>
@@ -174,12 +177,14 @@ Uwaga: Sprawdź ilość wolnego miejsca na dysku.</WaveFileMalformed>
     <ExtendOnly>Tylko rozciągnij</ExtendOnly>
     <EnforceDurationLimits>Wymuś minimalny i maksymalny czas trwania</EnforceDurationLimits>
     <CheckShotChanges>Nie rozciągaj poza zmiany ujęcia</CheckShotChanges>
+    <BatchCheckShotChanges>Przestrzegaj zmian ujęć (jeśli są dostępne)</BatchCheckShotChanges>
   </AdjustDisplayDuration>
   <ApplyDurationLimits>
     <Title>Zastosuj limity czasu trwania</Title>
     <CheckShotChanges>Nie rozciągaj poza zmiany ujęcia</CheckShotChanges>
     <FixesAvailable>Dostępne poprawki: {0}</FixesAvailable>
     <UnableToFix>Nie można poprawić: {0}</UnableToFix>
+    <BatchCheckShotChanges>Przestrzegaj zmian ujęć (jeśli są dostępne)</BatchCheckShotChanges>
   </ApplyDurationLimits>
   <AudioToText>
     <Title>Audio na tekst</Title>
@@ -371,11 +376,11 @@ Chcesz przeczytać więcej informacji (w sieci)?</WhisperNotFound>
     <TitleSelectedLines>Ulepszanie kodów czasowych ({0} wybranych linii)</TitleSelectedLines>
     <GroupTimeCodes>Kody czasowe</GroupTimeCodes>
     <AlignTimeCodes>Wyrównaj kody czasowe do kodów czasowych klatki</AlignTimeCodes>
-    <ExtractExactTimeCodes>Użyj ffprobe, aby wyodrębnić dokładne kody czasowe klatki</ExtractExactTimeCodes>
+    <ExtractExactTimeCodes>Użyj FFprobe, aby wyodrębnić dokładne kody czasowe klatki</ExtractExactTimeCodes>
     <ExtractTimeCodes>Wyodrębnij kody czasowe</ExtractTimeCodes>
     <CancelTimeCodes>Anuluj</CancelTimeCodes>
     <GroupShotChanges>Zmiany ujęcia</GroupShotChanges>
-    <SnapToShotChanges>Przechwyć wskaźniki do zmian ujęcia</SnapToShotChanges>
+    <SnapToShotChanges>Przyciągaj wskaźniki do zmian ujęcia</SnapToShotChanges>
     <ImportShotChanges>Generuj / Importuj zmiany ujęcia...</ImportShotChanges>
     <EditProfile>Edytuj profil...</EditProfile>
     <NoTimeCodesLoaded>Nie wczytano kodów czasowych</NoTimeCodesLoaded>
@@ -388,6 +393,9 @@ Kliknij "{0}", aby najpierw wyodrębnić kody czasowe lub wyłącz tę opcję.</
     <NoShotChangesLoadedError>Wybrano opcję przechwytywania wskaźników do zmiany ujęć, ale nie wczytano żadnych zmian ujęć.
 
 Kliknij "{0}", aby najpierw wyodrębnić lub zaimportować zmiany ujęć, albo wyłącz tę opcję.</NoShotChangesLoadedError>
+    <BatchAlignTimeCodes>Dopasuj kody czasowe do kodów czasowych klatki</BatchAlignTimeCodes>
+    <BatchUseExactTimeCodes>Użyj dokładnych kodów czasowych (jeśli są dostępne)</BatchUseExactTimeCodes>
+    <BatchSnapToShotChanges>Przyciągaj wskaźniki do zmian ujęcia (jeśli są dostępne)</BatchSnapToShotChanges>
   </BeautifyTimeCodes>
   <BeautifyTimeCodesProfile>
     <Title>Edycja profilu</Title>
@@ -2563,6 +2571,10 @@ może edytować ten sam plik napisów (współpraca)</Information>
     <RecalculateDurationOfCurrentSubtitle>Oblicz ponownie czas trwania bieżących napisów</RecalculateDurationOfCurrentSubtitle>
     <RecalculateDurationOfCurrentSubtitleByOptimalReadingSpeed>Oblicz ponownie czas trwania bieżących napisów (w oparciu o optymalną prędkość czytania)</RecalculateDurationOfCurrentSubtitleByOptimalReadingSpeed>
     <RecalculateDurationOfCurrentSubtitleByMinReadingSpeed>Ponownie oblicz czas trwania bieżących napisów (na podstawie minimalnej prędkości czytania)</RecalculateDurationOfCurrentSubtitleByMinReadingSpeed>
+    <SetInCueToClosestShotChangeLeftGreenZone>Ustaw znacznik wejściowy na minimalną odległość przed zmianą najbliższego ujęcia (lewa zielona strefa)</SetInCueToClosestShotChangeLeftGreenZone>
+    <SetInCueToClosestShotChangeRightGreenZone>Ustaw znacznik wejściowy na minimalną odległość po zmianie najbliższego ujęcia (prawa zielona strefa)</SetInCueToClosestShotChangeRightGreenZone>
+    <SetOutCueToClosestShotChangeLeftGreenZone>Ustaw znacznik wyjściowy na minimalną odległość przed zmianą najbliższego ujęcia (lewa zielona strefa)</SetOutCueToClosestShotChangeLeftGreenZone>
+    <SetOutCueToClosestShotChangeRightGreenZone>Ustaw znacznik wyjściowy na minimalną odległość po zmianie najbliższego ujęcia (prawa zielona strefa)</SetOutCueToClosestShotChangeRightGreenZone>
     <MainCreateStartDownEndUp>Klawisz ↓ - utwórz nowy, klawisz ↑ - ustaw czas zakończenia</MainCreateStartDownEndUp>
     <MergeDialog>Połącz dialogi (wstaw myślniki)</MergeDialog>
     <MergeDialogWithNext>Połącz dialog z następnym (wstaw myślniki)</MergeDialogWithNext>
@@ -3330,6 +3342,10 @@ Zachować te zmiany?</KeepChangesMessage>
     <Title>WebVTT - ustaw nowy głos</Title>
     <VoiceName>Nazwa głosu</VoiceName>
   </WebVttNewVoice>
+  <WebVttProperties>
+    <UseXTimeStamp>Użyj wartości nagłówka X-TIMESTAMP-MAP</UseXTimeStamp>
+    <MergeLines>Połącz linie z tym samym tekstem podczas wczytywania</MergeLines>
+  </WebVttProperties>
   <WebVttStyleManager>
     <Title>Style WebVTT</Title>
   </WebVttStyleManager>
