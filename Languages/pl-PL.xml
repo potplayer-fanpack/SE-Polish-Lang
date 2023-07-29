@@ -879,6 +879,7 @@ Wykorzystujemy naturalny rytm obrazu.</CreateSimpleChainingToolTip>
     <BreakLongLines>Przełam długie linie</BreakLongLines>
     <RemoveLineBreaks>Usuń łamanie linii w krótkich tekstach zawierających tylko jedno zdanie</RemoveLineBreaks>
     <RemoveLineBreaksAll>Usuń łamanie linii w krótkich tekstach (wszystkie, z wyjątkiem dialogów)</RemoveLineBreaksAll>
+    <RemoveLineBreaksPixelWidth>Cofnij łamanie napisów, które mieszczą się w jednej linii (szerokość w pikselach)</RemoveLineBreaksPixelWidth>
     <FixUppercaseIInsideLowercaseWords>Popraw duże 'i' w słowach pisanych małymi literami (błąd OCR)</FixUppercaseIInsideLowercaseWords>
     <FixDoubleApostrophes>Zamień podwójne znaki apostrofu ('') na pojedynczy cudzysłów (")</FixDoubleApostrophes>
     <AddPeriods>Dodaj kropkę po liniach, gdy następna linia rozpoczyna się dużą literą</AddPeriods>
@@ -913,6 +914,7 @@ Wykorzystujemy naturalny rytm obrazu.</CreateSimpleChainingToolTip>
     <FixFirstLetterToUppercaseAfterParagraph>Zmień pierwszą literę na dużą po akapicie</FixFirstLetterToUppercaseAfterParagraph>
     <MergeShortLine>Połącz krótką linię (jedno zdanie)</MergeShortLine>
     <MergeShortLineAll>Połącz krótkie linie (wszystkie, z wyjątkiem dialogów)</MergeShortLineAll>
+    <UnbreakShortLinePixelWidth>Cofnij łamanie krótkiej linii (szerokość w pikselach)</UnbreakShortLinePixelWidth>
     <BreakLongLine>Przełam długą linię</BreakLongLine>
     <FixLongDisplayTime>Popraw zbyt długi czas wyświetlania</FixLongDisplayTime>
     <FixInvalidItalicTag>Popraw nieprawidłowy znacznik kursywy</FixInvalidItalicTag>
