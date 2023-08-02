@@ -1740,6 +1740,7 @@ Kontynuować?</SubtitleAppendPrompt>
     <NothingToUndo>Nie ma nic do cofnięcia</NothingToUndo>
     <InvalidLanguageNameX>Nieprawidłowa nazwa języka: {0}</InvalidLanguageNameX>
     <DoNotDisplayMessageAgain>Nie wyświetlaj ponownie tej wiadomości</DoNotDisplayMessageAgain>
+    <DoNotAutoLoadVideo>Nie wczytuj automatycznie wideo</DoNotAutoLoadVideo>
     <NumberOfCorrectedWords>Liczba poprawionych słów: {0}</NumberOfCorrectedWords>
     <NumberOfSkippedWords>Liczba pominiętych słów: {0}</NumberOfSkippedWords>
     <NumberOfCorrectWords>Liczba poprawnych słów: {0}</NumberOfCorrectWords>
