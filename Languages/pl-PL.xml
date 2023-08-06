@@ -512,6 +512,7 @@ Wykorzystujemy naturalny rytm obrazu.</CreateSimpleChainingToolTip>
     <Enabled>Włącz</Enabled>
     <Name>Nazwa własna</Name>
     <LinesFoundX>Znaleziono linii: {0}</LinesFoundX>
+    <ExtraNames>Dodaj dodatkowe nazwy (oddzielone przecinkiem, tylko do jednorazowego użytku)</ExtraNames>
   </ChangeCasingNames>
   <ChangeFrameRate>
     <Title>Zmień liczbę klatek na sekundę</Title>
