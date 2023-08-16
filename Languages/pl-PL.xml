@@ -98,6 +98,7 @@
     <Collapse>Zwiń</Collapse>
     <ShortcutX>Skrót: {0}</ShortcutX>
     <ExampleX>Przykład: {0}</ExampleX>
+    <ViewX></ViewX>
     <Reset>Resetuj</Reset>
     <Error>Błąd</Error>
     <Warning>Ostrzeżenie</Warning>
@@ -204,6 +205,7 @@ Chcesz przeczytać więcej informacji (w sieci)?</WhisperNotFound>
     <LoadingVoskModel>Wczytuję model rozpoznawania mowy Vosk...</LoadingVoskModel>
     <Transcribing>Transkrypcja audio na tekst...</Transcribing>
     <TranscribingXOfY>Transkrypcja audio na tekst — plik {0} z {1}...</TranscribingXOfY>
+    <PostProcessing>Przetwarzanie końcowe...</PostProcessing>
     <XFilesSavedToVideoSourceFolder>Zapisano {0} plik(i)ów w folderze źródłowym wideo</XFilesSavedToVideoSourceFolder>
     <UsePostProcessing>Użyj przetwarzania końcowego (łączenie linii, poprawianie wielkości liter, interpunkcja i inne)</UsePostProcessing>
     <AutoAdjustTimings>Automatycznie dostosuj czasy</AutoAdjustTimings>
@@ -978,9 +980,11 @@ Wykorzystujemy naturalny rytm obrazu.</CreateSimpleChainingToolTip>
     <InfoAssaOn>Uwaga: Zostanie zastosowana stylizacja Advanced SubStation Alpha :)</InfoAssaOn>
     <XGeneratedWithBurnedInSubsInX>Wygenerowano "{0}" z wtopionymi napisami w {1}.</XGeneratedWithBurnedInSubsInX>
     <TimeRemainingMinutes>Pozostały czas: {0} minut</TimeRemainingMinutes>
+    <TimeRemainingOneMinute>Pozostały czas: jedna minuta</TimeRemainingOneMinute>
     <TimeRemainingSeconds>Pozostały czas: {0} sekund</TimeRemainingSeconds>
     <TimeRemainingAFewSeconds>Pozostały czas: kilka sekund</TimeRemainingAFewSeconds>
     <TimeRemainingMinutesAndSeconds>Pozostały czas: {0} minut i {1} sekund</TimeRemainingMinutesAndSeconds>
+    <TimeRemainingOneMinuteAndSeconds>Pozostały czas: jedna minuta i {0} sekund</TimeRemainingOneMinuteAndSeconds>
     <TargetFileName>Nazwa pliku docelowego: {0}</TargetFileName>
     <TargetFileSize>Docelowy rozmiar pliku (wymaga 2-przebiegowego kodowania)</TargetFileSize>
     <FileSizeMb>Rozmiar pliku w MB</FileSizeMb>
