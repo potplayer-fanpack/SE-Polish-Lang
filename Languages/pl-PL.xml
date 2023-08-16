@@ -98,7 +98,7 @@
     <Collapse>Zwiń</Collapse>
     <ShortcutX>Skrót: {0}</ShortcutX>
     <ExampleX>Przykład: {0}</ExampleX>
-    <ViewX></ViewX>
+    <ViewX>Podgląd {0}</ViewX>
     <Reset>Resetuj</Reset>
     <Error>Błąd</Error>
     <Warning>Ostrzeżenie</Warning>
