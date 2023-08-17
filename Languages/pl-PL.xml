@@ -2293,6 +2293,7 @@ może edytować ten sam plik napisów (współpraca)</Information>
     <BeautifyTimeCodes>Ulepszanie kodów czasowych</BeautifyTimeCodes>
     <SettingsName>Ustawienia</SettingsName>
     <ToggleBookmarks>Przełączanie zakładek</ToggleBookmarks>
+    <FocusTextBox>Koncentracja na polu tekstowym</FocusTextBox>
     <ToggleBookmarksWithComment>Przełączanie zakładek - dodaj komentarz</ToggleBookmarksWithComment>
     <ClearBookmarks>Wyczyść zakładki</ClearBookmarks>
     <ExportBookmarks>Eksportuj zakładki...</ExportBookmarks>
@@ -2814,6 +2815,8 @@ Kontynuować?</RestoreDefaultSettingsMsg>
     <CustomContinuationStyleNote>Uwaga: Niestandardowy styl kontynuacji jest wspólny dla wszystkich profili.</CustomContinuationStyleNote>
     <ResetCustomContinuationStyleWarning>Zastąpi to wartości w oknie dialogowym. Jesteś pewny?</ResetCustomContinuationStyleWarning>
     <ExportAsHtml>Eksportuj jako HTML...</ExportAsHtml>
+    <SetNewActor>Ustaw nowego aktora/głos</SetNewActor>
+    <SetActorX>Ustaw aktora/głos {0}</SetActorX>
   </Settings>
   <SettingsMpv>
     <DownloadMpv>Pobierz bibliotekę mpv</DownloadMpv>
