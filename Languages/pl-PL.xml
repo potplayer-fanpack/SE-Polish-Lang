@@ -542,6 +542,9 @@ Wykorzystujemy naturalny rytm obrazu.</CreateSimpleChainingToolTip>
     <CheckingForUpdatesNewVersion>Dostępna jest nowa wersja!</CheckingForUpdatesNewVersion>
     <InstallUpdate>Przejdź do strony pobierania</InstallUpdate>
     <NoUpdates>Nie aktualizuj</NoUpdates>
+    <XPluginsHasAnUpdate>{0} wtyczek ma aktualizacje -</XPluginsHasAnUpdate>
+    <OnePluginsHasAnUpdate>Jedna wtyczka ma aktualizację -</OnePluginsHasAnUpdate>
+    <Update>aktualizacja</Update>
   </CheckForUpdates>
   <ChooseAudioTrack>
     <Title>Wybierz ścieżkę dźwiękową</Title>
