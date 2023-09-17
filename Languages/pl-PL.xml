@@ -1486,8 +1486,7 @@ Aby użyć klucza API przejdź do "Opcje -&gt; Ustawienia -&gt; Narzędzia", aby
         <BeautifyTimeCodes>Ulepszanie kodów czasowych</BeautifyTimeCodes>
         <Settings>Ustawienia</Settings>
         <Help>Pomoc</Help>
-        <ShowHideWaveform>Pokaż/Ukryj wykres falowy</ShowHideWaveform>
-        <ShowHideVideo>Pokaż/Ukryj wideo</ShowHideVideo>
+        <Layout>Układ graficzny</Layout>
         <AssaDraw>Projektuj Advanced Sub Station Alpha</AssaDraw>
       </ToolBar>
       <ContextMenu>
@@ -1941,6 +1940,7 @@ Pobrać i kontynuować?</VideoFromUrlRequirements>
     <SubtitleEditNeedsVideoPlayer>Subtitle Edit wymaga odtwarzacza wideo.</SubtitleEditNeedsVideoPlayer>
     <UseRecommendMpv>Aby użyć zalecanego odtwarzacza wideo "mpv", kliknij przycisk poniżej.</UseRecommendMpv>
     <DownloadAndUseMpv>Pobierz i używaj "mpv" jako odtwarzacza wideo</DownloadAndUseMpv>
+    <ChooseLayout>Wybierz układ graficzny</ChooseLayout>
   </Main>
   <MatroskaSubtitleChooser>
     <Title>Wybierz napisy z pliku Matroska</Title>
@@ -2538,12 +2538,13 @@ może edytować ten sam plik napisów (współpraca)</Information>
     <DarkThemeShowGridViewLines>Pokaż linie siatki widoku listy</DarkThemeShowGridViewLines>
     <GraphicsButtons>Przyciski graficzne</GraphicsButtons>
     <UpdateShortcut>Aktualizuj</UpdateShortcut>
-    <FoucsSetVideoPosition>Koncentruj się na ustawionej pozycji wideo</FoucsSetVideoPosition>
+    <FocusSetVideoPosition>Koncentruj się na ustawionej pozycji wideo</FocusSetVideoPosition>
     <ToggleDockUndockOfVideoControls>Przełączanie "Przyłącz"/"Odłącz" elementy sterowania wideo</ToggleDockUndockOfVideoControls>
     <CreateSetEndAddNewAndGoToNew>Ustaw koniec, dodaj nowy i przejdź do nowego</CreateSetEndAddNewAndGoToNew>
     <AdjustViaEndAutoStart>Dostosuj za pomocą pozycji końcowej</AdjustViaEndAutoStart>
     <AdjustViaEndAutoStartAndGoToNext>Dostosuj za pomocą pozycji końcowej i przejdź do następnej</AdjustViaEndAutoStartAndGoToNext>
     <AdjustSetEndMinusGapAndStartNextHere>Ustaw koniec minus odstęp, przejdź do następnej i zacznij następną tutaj</AdjustSetEndMinusGapAndStartNextHere>
+    <AdjustSetStartTimeAndGoToNext>Ustaw początek i przejdź do następnej</AdjustSetStartTimeAndGoToNext>
     <AdjustSetEndTimeAndGoToNext>Ustaw koniec i przejdź do następnej</AdjustSetEndTimeAndGoToNext>
     <AdjustSetEndTimeAndPause>Ustaw koniec i wstrzymaj</AdjustSetEndTimeAndPause>
     <AdjustSetStartAutoDurationAndGoToNext>Ustaw początek, automatyczny czas trwania i przejdź do następnej</AdjustSetStartAutoDurationAndGoToNext>
