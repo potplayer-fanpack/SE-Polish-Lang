@@ -2333,7 +2333,7 @@ może edytować ten sam plik napisów (współpraca)</Information>
     <SubtitleFont>Czcionka napisów</SubtitleFont>
     <SubtitleFontSize>Rozmiar czcionki napisów</SubtitleFontSize>
     <SubtitleBold>Pogrubienie</SubtitleBold>
-    <VideoAutoOpen>Automatycznie otwieraj plik wideo podczas otwierania napisów</VideoAutoOpen>
+    <VideoAutoOpen>Auto otwieraj plik wideo podczas otwierania napisów</VideoAutoOpen>
     <AllowVolumeBoost>Zezwalaj na zwiększenie głośności</AllowVolumeBoost>
     <SubtitleCenter>Wyśrodkowanie</SubtitleCenter>
     <SubtitleFontColor>Kolor czcionki napisów</SubtitleFontColor>
