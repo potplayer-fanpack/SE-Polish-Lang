@@ -103,6 +103,7 @@
     <Error>Błąd</Error>
     <Warning>Ostrzeżenie</Warning>
     <UseLargerFontForThisWindow>Użyj większej czcionki w tym oknie</UseLargerFontForThisWindow>
+    <ChangeLanguageFilter>Zmień filtr językowy...</ChangeLanguageFilter>
   </General>
   <About>
     <Title>O programie Subtitle Edit</Title>
@@ -2317,6 +2318,7 @@ może edytować ten sam plik napisów (współpraca)</Information>
     <DefaultFrameRate>Domyślna liczba klatek/sekundę</DefaultFrameRate>
     <DefaultFileEncoding>Domyślne kodowanie pliku</DefaultFileEncoding>
     <AutoDetectAnsiEncoding>Automatycznie wykryj kodowanie ANSI</AutoDetectAnsiEncoding>
+    <LanguageFilter>Filtr językowy</LanguageFilter>
     <Profile>Profil</Profile>
     <Profiles>Profile</Profiles>
     <ImportProfiles>Importuj profile</ImportProfiles>
