@@ -1044,6 +1044,7 @@ Wykorzystujemy naturalny rytm obrazu.</CreateSimpleChainingToolTip>
     <PleaseWait>Proszę czekać... to może chwilę potrwać</PleaseWait>
     <PoweredByGoogleTranslate>Obsługiwane przez tłumacza Google</PoweredByGoogleTranslate>
     <PoweredByMicrosoftTranslate>Obsługiwane przez tłumacza Microsoft</PoweredByMicrosoftTranslate>
+    <PoweredByX>Obsługiwane przez {0}</PoweredByX>
     <MsClientSecretNeeded>Przepraszamy, potrzebujesz klucza do usług poznawczych "Translator Text" firmy Microsoft, aby móc korzystać z najnowszego programu Microsoft Translator.
 
 Przejdź do "Opcje -&gt; Ustawienia -&gt; Narzędzia", aby wpisać swój klucz.</MsClientSecretNeeded>
@@ -2279,6 +2280,7 @@ może edytować ten sam plik napisów (współpraca)</Information>
     <VideoPlayer>Odtwarzacz wideo</VideoPlayer>
     <WaveformAndSpectrogram>Wykres falowy/Spektrogram</WaveformAndSpectrogram>
     <Tools>Narzędzia</Tools>
+    <AutoTranslate>Automatyczne tłumaczenie</AutoTranslate>
     <WordLists>Listy słów</WordLists>
     <SsaStyle>Styl ASS/SSA</SsaStyle>
     <Network>Sieć</Network>
