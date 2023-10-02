@@ -104,6 +104,7 @@
     <Warning>Ostrzeżenie</Warning>
     <UseLargerFontForThisWindow>Użyj większej czcionki w tym oknie</UseLargerFontForThisWindow>
     <ChangeLanguageFilter>Zmień filtr językowy...</ChangeLanguageFilter>
+    <MoreInfo>Więcej info</MoreInfo>
   </General>
   <About>
     <Title>O programie Subtitle Edit</Title>
@@ -198,6 +199,7 @@ Uwaga: Sprawdź ilość wolnego miejsca na dysku.</WaveFileMalformed>
     <WhisperNotFound>Nie znaleziono aplikacji Whisper.
 
 Chcesz przeczytać więcej informacji (w sieci)?</WhisperNotFound>
+    <Model>Model</Model>
     <Models>Modele</Models>
     <LanguagesAndModels>Języki i modele</LanguagesAndModels>
     <ChooseModel>Wybierz model</ChooseModel>
@@ -1066,6 +1068,7 @@ Aby użyć klucza API przejdź do "Opcje -&gt; Ustawienia -&gt; Narzędzia", aby
     <TranslateBlockCopySourceText>Kopiuj źródłowy tekst ze schowka</TranslateBlockCopySourceText>
     <TranslateBlockClipboardError1>Schowek zawiera tekst źródłowy!</TranslateBlockClipboardError1>
     <TranslateBlockClipboardError2>Przejdź do translatora i przetłumacz, a następnie skopiuj wyniki do schowka i kliknij ten przycisk ponownie.</TranslateBlockClipboardError2>
+    <StartWebServerX>Uruchomienie serwera sieciowego "{0}"</StartWebServerX>
   </GoogleTranslate>
   <GoogleOrMicrosoftTranslate>
     <Title>Tłumaczenie Google vs Tłumaczenie Microsoft</Title>
@@ -1633,7 +1636,7 @@ Aby użyć klucza API przejdź do "Opcje -&gt; Ustawienia -&gt; Narzędzia", aby
       <SetStartTimeAndOffsetTheRest>Ustaw start &amp;&amp; Przesuń pozost.</SetStartTimeAndOffsetTheRest>
       <SearchTextOnline>Wyszukaj tekst online</SearchTextOnline>
       <GoogleTranslate>Tłumacz Google</GoogleTranslate>
-      <AutoTranslate>Tłumacz automatycznie</AutoTranslate>
+      <AutoTranslate>Tłumaczenie automatyczne</AutoTranslate>
       <GoogleIt>Sprawdź w Google</GoogleIt>
       <SecondsBackShort>&lt;&lt;</SecondsBackShort>
       <SecondsForwardShort>&gt;&gt;</SecondsForwardShort>
@@ -2280,7 +2283,6 @@ może edytować ten sam plik napisów (współpraca)</Information>
     <VideoPlayer>Odtwarzacz wideo</VideoPlayer>
     <WaveformAndSpectrogram>Wykres falowy/Spektrogram</WaveformAndSpectrogram>
     <Tools>Narzędzia</Tools>
-    <AutoTranslate>Automatyczne tłumaczenie</AutoTranslate>
     <WordLists>Listy słów</WordLists>
     <SsaStyle>Styl ASS/SSA</SsaStyle>
     <Network>Sieć</Network>
