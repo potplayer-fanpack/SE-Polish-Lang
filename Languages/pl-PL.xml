@@ -2297,9 +2297,9 @@ może edytować ten sam plik napisów (współpraca)</Information>
     <SaveAs>Zapisz jako</SaveAs>
     <Find>Znajdź</Find>
     <Replace>Zastąp</Replace>
-    <VisualSync>Synchronizacja</VisualSync>
-    <BurnIn>Wtop w wideo</BurnIn>
-    <SpellCheck>Pisownia</SpellCheck>
+    <VisualSync>Synchronizacja wizualna</VisualSync>
+    <BurnIn>Wtop napisy w wideo</BurnIn>
+    <SpellCheck>Sprawdzanie pisowni</SpellCheck>
     <NetflixQualityCheck>Kontrola jakości Netflix</NetflixQualityCheck>
     <BeautifyTimeCodes>Ulepszanie kodów czasowych</BeautifyTimeCodes>
     <SettingsName>Ustawienia</SettingsName>
@@ -2319,7 +2319,7 @@ może edytować ten sam plik napisów (współpraca)</Information>
     <TogglePreviewOnVideo>Przełącz podgląd na wideo</TogglePreviewOnVideo>
     <Help>Pomoc</Help>
     <FontInUi>Czcionka interfejsu użytkownika</FontInUi>
-    <Appearance>Wygląd</Appearance>
+    <Appearance>Wygląd zewnętrzny</Appearance>
     <ShowFrameRate>Pokaż liczbę klatek/sekundę na Pasku narzędzi</ShowFrameRate>
     <DefaultFrameRate>Domyślna liczba klatek/sekundę</DefaultFrameRate>
     <DefaultFileEncoding>Domyślne kodowanie pliku</DefaultFileEncoding>
@@ -2483,8 +2483,8 @@ może edytować ten sam plik napisów (współpraca)</Information>
     <EndSceneIndex>Akapit sceny końcowej to</EndSceneIndex>
     <FirstPlusX>Pierwsza + {0}</FirstPlusX>
     <LastMinusX>Ostatnia - {0}</LastMinusX>
-    <FixCommonerrors>Popraw błędy</FixCommonerrors>
-    <RemoveTextForHi>Usuń tekst dla głuchych</RemoveTextForHi>
+    <FixCommonerrors>Popraw najczęstsze błędy</FixCommonerrors>
+    <RemoveTextForHi>Usuń tekst dla niedosłyszących</RemoveTextForHi>
     <MergeLinesShorterThan>Usuń łamanie linii, gdy napisy krótsze niż</MergeLinesShorterThan>
     <DialogStyle>Styl dialogów</DialogStyle>
     <DialogStyleDashBothLinesWithSpace>Myślnik ze spacją w obu liniach</DialogStyleDashBothLinesWithSpace>
