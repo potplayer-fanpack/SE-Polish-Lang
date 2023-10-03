@@ -1068,8 +1068,8 @@ Aby użyć klucza API przejdź do "Opcje -&gt; Ustawienia -&gt; Narzędzia", aby
     <TranslateBlockCopySourceText>Kopiuj źródłowy tekst ze schowka</TranslateBlockCopySourceText>
     <TranslateBlockClipboardError1>Schowek zawiera tekst źródłowy!</TranslateBlockClipboardError1>
     <TranslateBlockClipboardError2>Przejdź do translatora i przetłumacz, a następnie skopiuj wyniki do schowka i kliknij ten przycisk ponownie.</TranslateBlockClipboardError2>
-    <StartWebServerX>Uruchomienie serwera sieciowego "{0}"</StartWebServerX>
-    <XRequiresALocalWebServer>"{0}" wymaga lokalnego serwera sieciowego!</XRequiresALocalWebServer>
+    <StartWebServerX>Uruchomienie serwera WWW "{0}"</StartWebServerX>
+    <XRequiresALocalWebServer>"{0}" wymaga serwera WWW działającego lokalnie!</XRequiresALocalWebServer>
     <ReadMore>Więcej informacji?</ReadMore>
   </GoogleTranslate>
   <GoogleOrMicrosoftTranslate>
