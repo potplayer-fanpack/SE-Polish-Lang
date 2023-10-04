@@ -1,20 +1,150 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<OCRFixReplaceList>
-  <WholeWords />
-  <PartialWordsAlways />
-  <PartialWords>
-    <!-- Will be used to check words not in dictionary.
-         If new word(s) and longer than 4 chars and exists
-         in spelling dictionary, it is (or they are) accepted -->
-    <!-- "f " will be two words -->
-    <WordPart from="f" to="f " />
-    <WordPart from="ą" to="ą " />
-    <WordPart from="j" to=" j" />
-  </PartialWords>
-  <WholeLines />
-  <PartialLinesAlways />
+<ReplaceList>
+  <WholeWords>
+    <Word from="jeśłi" to="jeśli" />
+    <Word from="znałeżć" to="znaleźć" />
+    <Word from="sprawdzal" to="sprawdzał" />
+    <Word from="Przestraszyleś" to="Przestraszyłeś" />
+    <Word from="Zaslużyleś" to="Zasłużyłeś" />
+    <Word from="ZIaź" to="Złaź" />
+    <Word from="IIe" to="Ile" />
+    <Word from="chlopca" to="chłopca" />
+    <Word from="C0" to="Co" />
+    <Word from="przydzialu" to="przydziału" />
+    <Word from="Mialbym" to="Miałbym" />
+    <Word from="smażylbym" to="smażyłbym" />
+    <Word from="Widzialem" to="Widziałem" />
+    <Word from="Byl" to="Był" />
+    <Word from="SIucham" to="Słucham" />
+    <Word from="bylam" to="byłam" />
+    <Word from="pelnymi" to="pełnymi" />
+    <Word from="ostrzegi" to="ostrzegł" />
+    <Word from="Mówilem" to="Mówiłem" />
+    <Word from="slodkiego" to="słodkiego" />
+    <Word from="glowę" to="głowę" />
+    <Word from="slońca" to="słońca" />
+    <Word from="utonąieś" to="utonąłeś" />
+    <Word from="Widzialam" to="Widziałam" />
+    <Word from="Wlaśnie" to="Właśnie" />
+    <Word from="Odwolalem" to="Odwołałem" />
+    <Word from="wzięla" to="wzięła" />
+    <Word from="Chlopcy" to="Chłopcy" />
+    <Word from="dolu" to="dołu" />
+    <Word from="żyl" to="żył" />
+    <Word from="chciala" to="chciała" />
+    <Word from="dorosla" to="dorosła" />
+    <Word from="Zeby" to="Żeby" />
+    <Word from="Chcialabym" to="Chciałabym" />
+    <Word from="chiopców" to="chłopców" />
+    <Word from="wspanialy" to="wspaniały" />
+    <Word from="wspanialym" to="wspaniałym" />
+    <Word from="zrobileś" to="zrobiłeś" />
+    <Word from="Utonąlem" to="Utonąłem" />
+    <Word from="umyleś" to="umyłeś" />
+    <Word from="Musialem" to="Musiałem" />
+    <Word from="dżwig" to="dźwig" />
+    <Word from="pelno" to="pełno" />
+    <Word from="qaPiÓW" to="gapiów" />
+    <Word from="Kończjuż" to="Kończ już" />
+    <Word from="POQadamy" to="Pogadamy" />
+    <Word from="te_ż" to="też" />
+    <Word from="*EI" to="*El" />
+    <Word from="Swiat" to="Świat" />
+    <Word from="znalazlem" to="znalazłem" />
+    <Word from="zostawil" to="zostawił" />
+    <Word from="dżwięki" to="dźwięki" />
+    <Word from="posunąiem" to="posunąłem" />
+    <Word from="opiekowal" to="opiekował" />
+    <Word from="Żle" to="Źle" />
+    <Word from="glodny" to="głodny" />
+    <Word from="mlodzi" to="młodzi" />
+    <Word from="zaskoczylo" to="zaskoczyło" />
+    <Word from="Zapomnialby" to="Zapomniałby" />
+    <Word from="D0" to="Do" />
+    <Word from="Iudzie" to="ludzie" />
+    <Word from="Pomyślalem" to="Pomyślałem" />
+    <Word from="zalatwić" to="załatwić" />
+    <Word from="tlumacz" to="tłumacz" />
+    <Word from="Naciskaiem" to="Naciskałem" />
+    <Word from="palilem" to="paliłem" />
+    <Word from="bialym" to="białym" />
+    <Word from="Będąz" to="Będą" />
+    <Word from="oi" to="ci" />
+    <Word from="p_oza" to="poza" />
+    <Word from="Cikawe" to="Ciekawe" />
+    <Word from="Potrzbuję" to="Potrzebuję" />
+    <Word from="oesarzu" to="cesarzu" />
+    <Word from="Nio" to="Nic" />
+    <Word from="zwyczajnien" to="zwyczajnie" />
+    <Word from="krwawiąoy" to="krwawiący" />
+    <Word from="tV" to="ty" />
+    <Word from="Marousie" to="Marcusie" />
+    <Word from="zaakoeptujesz" to="zaakceptujesz" />
+    <Word from="koo" to="koc" />
+    <Word from="Luoiusza" to="Luciusza" />
+    <Word from="Czasmi" to="Czasami" />
+    <Word from="Faloa" to="Falca" />
+    <Word from="rotropne" to="roztropne" />
+    <Word from="mogł" to="mógł" />
+    <Word from="ŻółW" to="Żółty" />
+    <Word from="rozprzestszenia" to="rozprzestrzenia" />
+    <Word from="Gracohusie" to="Gracchusie" />
+    <Word from="spośrod" to="spośród" />
+    <Word from="Wię" to="Więc" />
+    <Word from="pouozy" to="pouczy" />
+    <Word from="ioh" to="ich" />
+    <Word from="barbarzyńoom" to="barbarzyńcom" />
+    <Word from="nundnyoh" to="nudnych" />
+    <Word from="usohłyoh" to="uschłych" />
+    <Word from="bedą" to="będą" />
+    <Word from="Bijąoe" to="Bijące" />
+    <Word from="Aurelisz" to="Aureliusz" />
+    <Word from="wpatrująoych" to="wpatrujących" />
+    <Word from="Potężniejąlak" to="Potężnieją jak" />
+    <Word from="tY" to="ty" />
+    <Word from="imój" to="i mój" />
+    <Word from="imeprium" to="Imperium" />
+    <Word from="Hiszpani" to="Hiszpanii" />
+    <Word from="Paniozu" to="Paniczu" />
+    <Word from="przemawiajoie" to="przemawiajcie" />
+    <Word from="zgińoie" to="zgińcie" />
+    <Word from="Hanibala" to="Hannibala" />
+    <Word from="pradwa" to="prawda" />
+    <Word from="mie" to="mnie" />
+    <Word from="Deoimus" to="Decimus" />
+    <Word from="Iegionistom" to="legionistom" />
+    <Word from="otym" to="o tym" />
+    <Word from="ufac" to="ufać" />
+    <Word from="rozkoszująoym" to="rozkoszującym" />
+    <Word from="nieobeności" to="nieobecności" />
+    <Word from="Puśc" to="Puść" />
+    <Word from="piszozał" to="piszczał" />
+    <Word from="iak" to="jak" />
+    <Word from="zuohwalsze" to="zuchwalsze" />
+    <Word from="nio" to="nic" />
+    <Word from="naszy" to="naszym" />
+    <Word from="Gracohusa" to="Gracchusa" />
+    <Word from="Utwórzoie" to="Utwórzcie" />
+    <Word from="ukochangeo" to="ukochanego" />
+    <Word from="Luoiusz" to="Luciusz" />
+    <Word from="Smierć" to="Śmierć" />
+    <Word from="Graoohusa" to="Gracchusa" />
+    <Word from="jes" to="jest" />
+  </WholeWords>
   <PartialLines />
   <BeginLines />
   <EndLines />
+  <WholeLines>
+    <Line from="_ - O rany!&#xD;&#xA;' Pękny. prawda?" to="- O rany!&#xD;&#xA;- Piękny, prawda?" />
+    <Line from="WSZYSTKI EGO NAJ LEPSZEGO!" to="WSZYSTKIEGO NAJLEPSZEGO!" />
+    <Line from="Znów o dna la z la milość." to="Znów odnalazła miłość." />
+    <Line from="Wija..." to="Ty i ja..." />
+    <Line from="_~ Tak?&#xD;&#xA;&lt;i&gt;_&lt;/i&gt; WIĘCEJ tarczy!" to="- Tak?&#xD;&#xA;- Więcej tarczy!" />
+  </WholeLines>
   <RegularExpressions />
-</OCRFixReplaceList>
+  <RemovedWholeWords />
+  <RemovedPartialLines />
+  <RemovedBeginLines />
+  <RemovedEndLines />
+  <RemovedWholeLines />
+  <RemovedRegularExpressions />
+</ReplaceList>

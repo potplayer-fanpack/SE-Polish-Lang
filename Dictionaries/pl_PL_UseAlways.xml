@@ -1394,4 +1394,52 @@
   <Pair from="tygodniuo" to="tygodniu" />
   <Pair from="maura" to="Maura" />
   <Pair from="senorita" to="seniorita" />
+  <Pair from="jeśłi" to="jeśli" />
+  <Pair from="znałeżć" to="znaleźć" />
+  <Pair from="sprawdzal" to="sprawdzał" />
+  <Pair from="Przestraszyleś" to="Przestraszyłeś" />
+  <Pair from="Zaslużyleś" to="Zasłużyłeś" />
+  <Pair from="ZIaź" to="Złaź" />
+  <Pair from="IIe" to="Ile" />
+  <Pair from="chlopca" to="chłopca" />
+  <Pair from="C0" to="Co" />
+  <Pair from="przydzialu" to="przydziału" />
+  <Pair from="Mialbym" to="Miałbym" />
+  <Pair from="smażylbym" to="smażyłbym" />
+  <Pair from="Widzialem" to="Widziałem" />
+  <Pair from="Byl" to="Był" />
+  <Pair from="SIucham" to="Słucham" />
+  <Pair from="bylam" to="byłam" />
+  <Pair from="pelnymi" to="pełnymi" />
+  <Pair from="ostrzegi" to="ostrzegł" />
+  <Pair from="Mówilem" to="Mówiłem" />
+  <Pair from="slodkiego" to="słodkiego" />
+  <Pair from="glowę" to="głowę" />
+  <Pair from="slońca" to="słońca" />
+  <Pair from="utonąieś" to="utonąłeś" />
+  <Pair from="Widzialam" to="Widziałam" />
+  <Pair from="Wlaśnie" to="Właśnie" />
+  <Pair from="Odwolalem" to="Odwołałem" />
+  <Pair from="wzięla" to="wzięła" />
+  <Pair from="Chlopcy" to="Chłopcy" />
+  <Pair from="dolu" to="dołu" />
+  <Pair from="żyl" to="żył" />
+  <Pair from="chciala" to="chciała" />
+  <Pair from="dorosla" to="dorosła" />
+  <Pair from="Zeby" to="Żeby" />
+  <Pair from="Chcialabym" to="Chciałabym" />
+  <Pair from="chiopców" to="chłopców" />
+  <Pair from="wspanialy" to="wspaniały" />
+  <Pair from="wspanialym" to="wspaniałym" />
+  <Pair from="zrobileś" to="zrobiłeś" />
+  <Pair from="Utonąlem" to="Utonąłem" />
+  <Pair from="umyleś" to="umyłeś" />
+  <Pair from="Musialem" to="Musiałem" />
+  <Pair from="dżwig" to="dźwig" />
+  <Pair from="pelno" to="pełno" />
+  <Pair from="qaPiÓW" to="gapiów" />
+  <Pair from="Kończjuż" to="Kończ już" />
+  <Pair from="POQadamy" to="Pogadamy" />
+  <Pair from="te_ż" to="też" />
+  <Pair from="Swiat" to="Świat" />
 </UseAlways>
