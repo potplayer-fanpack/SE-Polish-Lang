@@ -326,6 +326,7 @@ Chcesz przeczytać więcej informacji (w sieci)?</WhisperNotFound>
     <ConvertOptions>Opcje konwersji</ConvertOptions>
     <RemoveFormatting>Usuń tagi formatowania</RemoveFormatting>
     <RemoveStyleActor>Usuń styl/aktora</RemoveStyleActor>
+    <StyleActor>Styl/aktor (oddzielone przecinkiem)</StyleActor>
     <RemoveTextForHI>Usuń tekst dla osób niedosłyszących</RemoveTextForHI>
     <ConvertColorsToDialog>Konwertuj kolory na dialog</ConvertColorsToDialog>
     <OverwriteOriginalFiles>Nadpisz oryginalne pliki (nowe rozszerzenie w przypadku zmiany formatu)</OverwriteOriginalFiles>
