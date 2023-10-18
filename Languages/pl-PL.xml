@@ -489,6 +489,7 @@ Wykorzystujemy naturalny rytm obrazu.</CreateSimpleChainingToolTip>
     <BottomAlignSelectedLines>Wyrównaj wybrane linie do dołu (zachowaj pozycję poziomą)</BottomAlignSelectedLines>
     <ToggleForcedSelectedLines>Przełącz "Wymuszone" dla wybranych linii</ToggleForcedSelectedLines>
     <SelectForcedLines>Wybierz linie wymuszone</SelectForcedLines>
+    <SelectNonForcedLines>Wybierz linie niewymuszone</SelectNonForcedLines>
     <SizeXY>Rozmiar: {0}x{1}</SizeXY>
     <SetAspectRatio11>Ustaw proporcje 1:1</SetAspectRatio11>
     <ChangeBrightnessTitle>Dostosuj jasność</ChangeBrightnessTitle>
@@ -1432,8 +1433,6 @@ Aby użyć klucza API przejdź do "Opcje -&gt; Ustawienia -&gt; Narzędzia", aby
         <GenerateImportShotChanges>Generuj/importuj zmiany ujęcia...</GenerateImportShotChanges>
         <RemoveOrExportShotChanges>Usuń/eksportuj zmiany ujęcia...</RemoveOrExportShotChanges>
         <WaveformBatchGenerate>Wygeneruj wykresy falowe w trybie wsadowym...</WaveformBatchGenerate>
-        <ShowHideVideo>Pokaż/Ukryj wideo</ShowHideVideo>
-        <ShowHideWaveform>Pokaż/Ukryj wykres falowy</ShowHideWaveform>
         <ShowHideWaveformAndSpectrogram>Pokaż/Ukryj wykres falowy i spektrogram</ShowHideWaveformAndSpectrogram>
         <UnDockVideoControls>Odłącz elementy sterowania wideo</UnDockVideoControls>
         <ReDockVideoControls>Ponowne przyłącz elementy sterowania wideo</ReDockVideoControls>
