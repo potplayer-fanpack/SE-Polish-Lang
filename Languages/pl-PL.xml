@@ -1072,6 +1072,7 @@ Aby użyć klucza API przejdź do "Opcje -&gt; Ustawienia -&gt; Narzędzia", aby
     <TranslateBlockClipboardError2>Przejdź do translatora i przetłumacz, a następnie skopiuj wyniki do schowka i kliknij ten przycisk ponownie.</TranslateBlockClipboardError2>
     <StartWebServerX>Uruchomienie serwera WWW "{0}"</StartWebServerX>
     <XRequiresALocalWebServer>"{0}" wymaga serwera WWW działającego lokalnie!</XRequiresALocalWebServer>
+    <XRequiresAnApiKey>"{0}" wymaga klucza API.</XRequiresAnApiKey>
     <ReadMore>Więcej informacji?</ReadMore>
   </GoogleTranslate>
   <GoogleOrMicrosoftTranslate>
@@ -2225,6 +2226,7 @@ może edytować ten sam plik napisów (współpraca)</Information>
     <LinesFoundX>Znaleziono linii: {0}</LinesFoundX>
     <RemoveTextIfContains>Usuń tekst, jeśli zawiera:</RemoveTextIfContains>
     <RemoveTextIfAllUppercase>Usuń linię, jeśli pisana DUŻYMI LITERAMI</RemoveTextIfAllUppercase>
+    <RemoveIfOnlyMusicSymbols>Usuń, jeśli tylko symbole muzyczne</RemoveIfOnlyMusicSymbols>
     <RemoveInterjections>Usuń przerywniki (cii, hmm, itp.)</RemoveInterjections>
     <EditInterjections>Edytuj...</EditInterjections>
     <Apply>Z&amp;astosuj</Apply>
@@ -2647,6 +2649,7 @@ może edytować ten sam plik napisów (współpraca)</Information>
     <WaveformSeekSilenceForward>Szukaj ciszy do przodu</WaveformSeekSilenceForward>
     <WaveformSeekSilenceBack>Szukaj ciszy wstecz</WaveformSeekSilenceBack>
     <WaveformAddTextHere>Dodaj tutaj tekst (dla nowego zaznaczenia)</WaveformAddTextHere>
+    <ChooseLayoutX>Wybierz układ graficzny {0}</ChooseLayoutX>
     <WaveformAddTextHereFromClipboard>Dodaj tutaj tekst (ze schowka dla nowego zaznaczenia)</WaveformAddTextHereFromClipboard>
     <SetParagraphAsSelection>Ustaw bieżący jako nowe zaznaczenie</SetParagraphAsSelection>
     <WaveformPlayNewSelection>Odtwarzaj zaznaczenie</WaveformPlayNewSelection>
