@@ -1140,6 +1140,8 @@ Aby użyć klucza API przejdź do "Opcje -&gt; Ustawienia -&gt; Narzędzia", aby
   </ImportText>
   <Interjections>
     <Title>Przerywniki</Title>
+    <EditSkipList>Edytuj listę pomijanych...</EditSkipList>
+    <EditSkipListInfo>Przerywniki zostaną pominięte, jeśli tekst źródłowy zaczyna się od:</EditSkipListInfo>
   </Interjections>
   <JoinSubtitles>
     <Title>Przyłącz napisy</Title>
