@@ -1074,6 +1074,7 @@ Aby użyć klucza API przejdź do "Opcje -&gt; Ustawienia -&gt; Narzędzia", aby
     <XRequiresALocalWebServer>"{0}" wymaga serwera WWW działającego lokalnie!</XRequiresALocalWebServer>
     <XRequiresAnApiKey>"{0}" wymaga klucza API.</XRequiresAnApiKey>
     <ReadMore>Więcej informacji?</ReadMore>
+    <Formality>Stopień formalności</Formality>
   </GoogleTranslate>
   <GoogleOrMicrosoftTranslate>
     <Title>Tłumaczenie Google vs Tłumaczenie Microsoft</Title>
