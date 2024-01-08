@@ -1792,7 +1792,7 @@ SFX H   ó¶æ       od³yby¶cie ó¶æ
 SFX H   ó¶æ       odliby¶my ó¶æ
 SFX H   ó¶æ       od³yby¶my ó¶æ
 
-SFX B Y 576
+SFX B Y 582
 SFX B   ±c        êknij¿e   l±c
 SFX B   ±c        êknij     l±c
 SFX B   ±c        êknijmy¿  l±c
@@ -2249,6 +2249,12 @@ SFX B   æ         jmy       ¼dziæ
 SFX B   æ         jmy¿      ¼dziæ
 SFX B   æ         jcie      ¼dziæ
 SFX B   æ         jcie¿     ¼dziæ
+SFX B   æ         j¿e       rziæ
+SFX B   æ         j         rziæ
+SFX B   æ         jmy       rziæ
+SFX B   æ         jmy¿      rziæ
+SFX B   æ         jcie      rziæ
+SFX B   æ         jcie¿     rziæ
 SFX B   ¶æ        dnij¿e    a¶æ
 SFX B   ¶æ        dnij      a¶æ
 SFX B   ¶æ        dnijmy    a¶æ
@@ -4545,7 +4551,7 @@ SFX e   eæ        ano       zieæ
 SFX e   æ         to        [bnpw]iæ
 SFX e   iæ        jono      [ae]iæ
 SFX e   iæ        ono       ciæ
-SFX e   æ         ono       ziæ
+SFX e   æ         ono       [sz]iæ
 SFX e   ¶æ        siono     pa¶æ
 SFX e   ±¶æ       êsiono    z±¶æ
 SFX e   ¶æ        dniêto    i±¶æ
@@ -5091,7 +5097,7 @@ SFX D   j         i         [^ó]j
 SFX D   ój        oi        ój
 SFX D   0         i         l
 SFX D   ñ         ni        ñ
-SFX D   o         0         o
+SFX D   o         i         o
 SFX D   ¶         si        ¶
 SFX D   y         i         y
 SFX D   0         y         [cz¿]
@@ -6769,24 +6775,28 @@ SFX v   c         g±cej     trz[ey]c
 SFX v   c         g±ca      trz[ey]c
 SFX v   c         g±c±      trz[ey]c
 
-SFX x Y 20
+SFX x Y 24
+SFX x   0         a         [^gkly]i
 SFX x   i         a         [gkl]i
-SFX x   0         a         [^gkl]i
+SFX x   i         ja        yi
 SFX x   y         a         y
 SFX x   en        a         [^d]en
 SFX x   en        na        den
-SFX x   0         e         [^l]i
+SFX x   0         e         [^ly]i
 SFX x   i         e         li
+SFX x   i         je        yi
 SFX x   y         e         y
 SFX x   en        o         [^d]en
 SFX x   en        no        den
-SFX x   0         ej        [^l]i
+SFX x   0         ej        [^ly]i
 SFX x   i         ej        li
+SFX x   i         jej       yi
 SFX x   y         ej        y
 SFX x   n         j         [^d]en
 SFX x   en        nej       den
+SFX x   0         ±         [^gkly]i
 SFX x   i         ±         [gkl]i
-SFX x   0         ±         [^gkl]i
+SFX x   i         j±        yi
 SFX x   y         ±         y
 SFX x   en        ±         [^d]en
 SFX x   en        n±        den
@@ -6948,14 +6958,16 @@ SFX M   ±¿        ê¿±       [^r]±¿
 SFX M   0         ±         r±¿
 SFX M   e¿        ¿±        re¿
 
-SFX X Y 19
-SFX X   0         ego       [^l]i
+SFX X Y 21
+SFX X   0         ego       [^ly]i
+SFX X   i         jego      yi
 SFX X   i         ego       li
 SFX X   y         ego       y
 SFX X   en        nego      den
 SFX X   n         go        [^d]en
-SFX X   0         emu       [^l]i
+SFX X   0         emu       [^ly]i
 SFX X   i         emu       li
+SFX X   i         jemu      yi
 SFX X   y         emu       y
 SFX X   en        nemu      den
 SFX X   n         mu        [^d]en
@@ -6969,7 +6981,7 @@ SFX X   0         mi        [iy]
 SFX X   en        nymi      den
 SFX X   en        ymi       [^d]en
 
-SFX Y Y 32
+SFX Y Y 33
 SFX Y   y         i         [^cdh³nrtz¿]y
 SFX Y   y         y         cy
 SFX Y   y         zi        dy
@@ -6992,6 +7004,7 @@ SFX Y   y         i         [^ay]zny
 SFX Y   zny       ¼ni       [ay]zny
 SFX Y   sny       ¶ni       sny
 SFX Y   zy        i         szy
+SFX Y   y         i         yzy
 SFX Y   y         zy        ry
 SFX Y   ¿y        zi        ¿y
 SFX Y   y         i         [^osz]ny
