@@ -2850,6 +2850,8 @@ Kontynuować?</RestoreDefaultSettingsMsg>
     <ExportAsHtml>Eksportuj jako HTML...</ExportAsHtml>
     <SetNewActor>Ustaw nowego aktora/głos</SetNewActor>
     <SetActorX>Ustaw aktora/głos {0}</SetActorX>
+    <Used>Używane</Used>
+    <Unused>Nieużywane</Unused>
   </Settings>
   <SettingsMpv>
     <DownloadMpv>Pobierz bibliotekę mpv</DownloadMpv>
