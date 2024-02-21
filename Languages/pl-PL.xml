@@ -14,7 +14,7 @@
     <Apply>Zastosuj</Apply>
     <ApplyTo>Zastosuj do</ApplyTo>
     <None>Brak</None>
-    <All>Wszystko</All>
+    <All>Wszystkie</All>
     <Preview>Podgląd</Preview>
     <ShowPreview>Pokaż podgląd</ShowPreview>
     <HidePreview>Ukryj podgląd</HidePreview>
@@ -963,7 +963,7 @@ Wykorzystujemy naturalny rytm obrazu.</CreateSimpleChainingToolTip>
     <FixDoubleDash>Popraw '--' na wielokropek '...'</FixDoubleDash>
     <FixDoubleGreaterThan>Usuń '&gt;&gt;'</FixDoubleGreaterThan>
     <FixEllipsesStart>Usuń wiodący wielokropek '...'</FixEllipsesStart>
-    <FixMissingOpenBracket>Popraw brakujący '[' w linii</FixMissingOpenBracket>
+    <FixMissingOpenBracket>Popraw brakujący '[' lub '(' w linii</FixMissingOpenBracket>
     <FixMusicNotation>Zastąp symbole muzyczne (np. âTª) preferowanym symbolem</FixMusicNotation>
     <FixDoubleDashExample>'Ach-- tak!' -&gt; 'Ach... tak!'</FixDoubleDashExample>
     <FixDoubleGreaterThanExample>'&gt;&gt; Robert: Siema, stary!' -&gt; 'Robert: Siema, stary!'</FixDoubleGreaterThanExample>
