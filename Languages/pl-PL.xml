@@ -1450,6 +1450,7 @@ Aby użyć klucza API przejdź do "Opcje -&gt; Ustawienia -&gt; Tłumaczenie aut
         <RemoveOrExportShotChanges>Usuń/eksportuj zmiany ujęcia...</RemoveOrExportShotChanges>
         <WaveformBatchGenerate>Wygeneruj wykresy falowe w trybie wsadowym...</WaveformBatchGenerate>
         <ShowHideWaveformAndSpectrogram>Pokaż/Ukryj wykres falowy i spektrogram</ShowHideWaveformAndSpectrogram>
+        <TextToSpeechAndAddToVideo>Zamiana tekstu na mowę i dodawanie do wideo...</TextToSpeechAndAddToVideo>
         <UnDockVideoControls>Odłącz elementy sterowania wideo</UnDockVideoControls>
         <ReDockVideoControls>Ponowne przyłącz elementy sterowania wideo</ReDockVideoControls>
       </Video>
@@ -2126,6 +2127,8 @@ Pobrać i kontynuować?</VideoFromUrlRequirements>
     <EvenLines>Linie parzyste</EvenLines>
     <DurationLessThan>Czas trwania krótszy niż</DurationLessThan>
     <DurationGreaterThan>Czas trwania dłuższy niż</DurationGreaterThan>
+    <CpsLessThan>ZNS mniej niż</CpsLessThan>
+    <CpsGreaterThan>ZNS więcej niż</CpsGreaterThan>
     <ExactlyOneLine>Dokładnie jedna linia</ExactlyOneLine>
     <ExactlyTwoLines>Dokładnie dwie linie</ExactlyTwoLines>
     <MoreThanTwoLines>Więcej niż dwie linie</MoreThanTwoLines>
@@ -3152,6 +3155,18 @@ Kontynuować?</RestoreDefaultSettingsMsg>
     <Info>Jeden punkt synchronizacji dostosuje pozycję, dwa lub więcej punktów synchronizacji dostosuje pozycję i szybkość</Info>
     <ApplySync>Zastosuj</ApplySync>
   </PointSync>
+  <TextToSpeech>
+    <Title>Zamiana tekstu na mowę</Title>
+    <Voice>Głos</Voice>
+    <TestVoice>Głos testowy</TestVoice>
+    <DefaultVoice>Głos domyślny</DefaultVoice>
+    <AddAudioToVideo>Dodaj audio do pliku wideo (nowy plik)</AddAudioToVideo>
+    <GenerateSpeech>Generuj mowę z tekstu</GenerateSpeech>
+    <ActorInfo>Kliknij prawym przyciskiem myszy, aby przypisać aktora do głosu</ActorInfo>
+    <AdjustingSpeedXOfY>Regulacja prędkości: {0} / {1}...</AdjustingSpeedXOfY>
+    <MergingAudioTrackXOfY>Łączenie ścieżki audio: {0} / {1}...</MergingAudioTrackXOfY>
+    <GeneratingSpeechFromTextXOfY>Generowanie mowy z tekstu: {0} / {1}...</GeneratingSpeechFromTextXOfY>
+  </TextToSpeech>
   <TimedTextSmpteTiming>
     <Title>Synchronizacja SMPTE</Title>
     <UseSmpteTiming>Użyć synchronizacji w czasie SMPTE dla bieżących napisów?</UseSmpteTiming>
