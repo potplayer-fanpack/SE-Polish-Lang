@@ -1450,7 +1450,7 @@ Aby użyć klucza API przejdź do "Opcje -&gt; Ustawienia -&gt; Tłumaczenie aut
         <RemoveOrExportShotChanges>Usuń/eksportuj zmiany ujęcia...</RemoveOrExportShotChanges>
         <WaveformBatchGenerate>Wygeneruj wykresy falowe w trybie wsadowym...</WaveformBatchGenerate>
         <ShowHideWaveformAndSpectrogram>Pokaż/Ukryj wykres falowy i spektrogram</ShowHideWaveformAndSpectrogram>
-        <TextToSpeechAndAddToVideo>Zamiana tekstu na mowę i dodawanie do wideo...</TextToSpeechAndAddToVideo>
+        <TextToSpeechAndAddToVideo>Zamiana tekstu na mowę i dodanie do wideo...</TextToSpeechAndAddToVideo>
         <UnDockVideoControls>Odłącz elementy sterowania wideo</UnDockVideoControls>
         <ReDockVideoControls>Ponowne przyłącz elementy sterowania wideo</ReDockVideoControls>
       </Video>
@@ -1608,6 +1608,7 @@ Aby użyć klucza API przejdź do "Opcje -&gt; Ustawienia -&gt; Tłumaczenie aut
         <GoToSourceView>Przejdź do widoku źródła</GoToSourceView>
         <GoToListView>Przejdź do widoku listy</GoToListView>
         <ExtractAudio>Wyodrębnij dźwięk...</ExtractAudio>
+        <MediaInfo>Informacje o mediach</MediaInfo>
       </ContextMenu>
     </Menu>
     <Controls>
@@ -3166,6 +3167,11 @@ Kontynuować?</RestoreDefaultSettingsMsg>
     <AdjustingSpeedXOfY>Regulacja prędkości: {0} / {1}...</AdjustingSpeedXOfY>
     <MergingAudioTrackXOfY>Łączenie ścieżki audio: {0} / {1}...</MergingAudioTrackXOfY>
     <GeneratingSpeechFromTextXOfY>Generowanie mowy z tekstu: {0} / {1}...</GeneratingSpeechFromTextXOfY>
+    <ReviewAudioClips>Przegląd klipów audio</ReviewAudioClips>
+    <ReviewInfo>Przegląd i edycja/usuwanie klipów audio</ReviewInfo>
+    <Play>Odtwarzaj</Play>
+    <AutoContinue>Auto-kontynuacja</AutoContinue>
+    <Regenerate>Generuj ponownie</Regenerate>
   </TextToSpeech>
   <TimedTextSmpteTiming>
     <Title>Synchronizacja SMPTE</Title>
