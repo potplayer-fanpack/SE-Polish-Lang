@@ -1086,6 +1086,12 @@ Aby użyć klucza API przejdź do "Opcje -&gt; Ustawienia -&gt; Tłumaczenie aut
     <XRequiresAnApiKey>"{0}" wymaga klucza API.</XRequiresAnApiKey>
     <ReadMore>Więcej informacji?</ReadMore>
     <Formality>Stopień formalizmu</Formality>
+    <TranslateCurrentLine>Przetłumacz tylko bieżącą linię</TranslateCurrentLine>
+    <ReTranslateCurrentLine>Przetłumacz ponownie bieżącą linię</ReTranslateCurrentLine>
+    <MergeSplitStrategy>Obsługa dzielenia/łączenia</MergeSplitStrategy>
+    <Delay>Opóźnienie między wywołaniami serwera</Delay>
+    <MaxBytes>Maksymalna liczba bajtów w każdym wywołaniu serwera</MaxBytes>
+    <PromptX>Monit o {0}</PromptX>
   </GoogleTranslate>
   <GoogleOrMicrosoftTranslate>
     <Title>Tłumaczenie Google vs Tłumaczenie Microsoft</Title>
