@@ -2,7 +2,7 @@
 <Language Name="Polish">
   <General>
     <Title>Subtitle Edit</Title>
-    <Version>4.0.7</Version>
+    <Version>4.0.8</Version>
     <TranslatedBy>Tłumaczenie: Adam Malich (mailto:adam_malich@windowslive.com)</TranslatedBy>
     <CultureName>pl-PL</CultureName>
     <HelpFile />
@@ -2690,6 +2690,8 @@ może edytować ten sam plik napisów (współpraca)</Information>
     <WaveformGoToPreviousShotChange>Przejdź do poprzedniej zmiany ujęcia</WaveformGoToPreviousShotChange>
     <WaveformGoToNextShotChange>Przejdź do następnej zmiany ujęcia</WaveformGoToNextShotChange>
     <WaveformToggleShotChange>Przełącz zmianę ujęcia</WaveformToggleShotChange>
+    <WaveformAllShotChangesOneFrameForward>Przesuń wszystkie zmiany ujęcia o jedną klatkę do przodu</WaveformAllShotChangesOneFrameForward>
+    <WaveformAllShotChangesOneFrameBack>Przesuń wszystkie zmiany ujęcia o jedną klatkę do tyłu</WaveformAllShotChangesOneFrameBack>
     <WaveformRemoveOrExportShotChanges>Usuń/Eksportuj zmiany ujęcia</WaveformRemoveOrExportShotChanges>
     <WaveformGuessStart>Automatyczna regulacja startu za pomocą głośności/zmiany ujęcia</WaveformGuessStart>
     <GoBack1Frame>Jedna klatka do tyłu</GoBack1Frame>
