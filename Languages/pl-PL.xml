@@ -3,7 +3,7 @@
   <General>
     <Title>Subtitle Edit</Title>
     <Version>4.0.8</Version>
-    <TranslatedBy>Tłumaczenie: Adam Malich (mailto:adam_malich@windowslive.com)</TranslatedBy>
+    <TranslatedBy>Tłumaczenie: Adam Malich</TranslatedBy>
     <CultureName>pl-PL</CultureName>
     <HelpFile />
     <Ok>&amp;OK</Ok>
@@ -3186,6 +3186,8 @@ Kontynuować?</RestoreDefaultSettingsMsg>
     <AutoContinue>Auto-kontynuacja</AutoContinue>
     <Regenerate>Generuj ponownie</Regenerate>
     <Speed>Prędkość</Speed>
+    <Stability>Stabilność</Stability>
+    <Similarity>Podobieństwo</Similarity>
   </TextToSpeech>
   <TimedTextSmpteTiming>
     <Title>Synchronizacja SMPTE</Title>
