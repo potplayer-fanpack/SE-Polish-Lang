@@ -2538,7 +2538,7 @@ może edytować ten sam plik napisów (współpraca)</Information>
     <ContinuationStyleCustom>Niestandardowy</ContinuationStyleCustom>
     <CpsLineLengthStyle>ZNS/długość linii</CpsLineLengthStyle>
     <CpsLineLengthStyleCalcAll>Policz wszystkie znaki</CpsLineLengthStyleCalcAll>
-    <CpsLineLengthStyleCalcNoSpaceCpsOnly>Policz wszystko oprócz spacji, tylko ZNS</CpsLineLengthStyleCalcNoSpaceCpsOnly>
+    <CpsLineLengthStyleCalcNoSpaceCpsOnly>Policz wszystko z wyjątkiem spacji, tylko ZNS</CpsLineLengthStyleCalcNoSpaceCpsOnly>
     <CpsLineLengthStyleCalcNoSpace>Policz wszystko oprócz spacji</CpsLineLengthStyleCalcNoSpace>
     <CpsLineLengthStyleCalcCjk>CJK 1, Latin 0.5</CpsLineLengthStyleCalcCjk>
     <CpsLineLengthStyleCalcCjkNoSpace>CJK 1, Latin 0.5, spacja 0</CpsLineLengthStyleCalcCjkNoSpace>
