@@ -2796,6 +2796,7 @@ może edytować ten sam plik napisów (współpraca)</Information>
     <MainTextBoxMoveFirstWordFromNextUp>Pobierz pierwsze słowo z następnego napisu</MainTextBoxMoveFirstWordFromNextUp>
     <MainTextBoxMoveFirstWordUpCurrent>Przenieś do góry pierwsze słowo z następnej linii napisów (bieżące napisy)</MainTextBoxMoveFirstWordUpCurrent>
     <MainTextBoxMoveFromCursorToNext>Przenieś tekst za pozycję kursora do następnego napisu i przejdź do następnego</MainTextBoxMoveFromCursorToNext>
+    <MainTextBoxMoveFirstWordToPrev>Przenieś pierwsze słowo do poprzedniego napisu</MainTextBoxMoveFirstWordToPrev>
     <MainTextBoxMoveLastWordDownCurrent>Przenieś w dół ostatnie słowo z pierwszej linii (bieżące napisy)</MainTextBoxMoveLastWordDownCurrent>
     <MainTextBoxSelectionToLower>Zaznacz do małych liter</MainTextBoxSelectionToLower>
     <MainTextBoxSelectionToUpper>Zaznacz do dużych liter</MainTextBoxSelectionToUpper>
