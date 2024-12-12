@@ -2476,6 +2476,7 @@ może edytować ten sam plik napisów (współpraca)</Information>
     <WaveformUseFFmpeg>Użyj FFmpeg do wyodrębnienia wykresu falowego</WaveformUseFFmpeg>
     <WaveformUseCenterChannelOnly>Użyj tylko przedniego kanału centralnego (dla 5.1/7.1)</WaveformUseCenterChannelOnly>
     <DownloadX>Pobierz {0}</DownloadX>
+    <ExtractingX>Wyodrębnianie {0}</ExtractingX>
     <WaveformFFmpegPath>Ścieżka do FFmpeg</WaveformFFmpegPath>
     <WaveformBrowseToFFmpeg>Przejdź do FFmpeg</WaveformBrowseToFFmpeg>
     <WaveformBrowseToVLC>Przejdź do VLC Portable</WaveformBrowseToVLC>
@@ -2538,7 +2539,7 @@ może edytować ten sam plik napisów (współpraca)</Information>
     <ContinuationStyleCustom>Niestandardowy</ContinuationStyleCustom>
     <CpsLineLengthStyle>ZNS/długość linii</CpsLineLengthStyle>
     <CpsLineLengthStyleCalcAll>Policz wszystkie znaki</CpsLineLengthStyleCalcAll>
-    <CpsLineLengthStyleCalcNoSpaceCpsOnly>Policz wszystko z wyjątkiem spacji, tylko ZNS</CpsLineLengthStyleCalcNoSpaceCpsOnly>
+    <CpsLineLengthStyleCalcNoSpaceCpsOnly>Policz wszystko oprócz spacji, tylko ZNS</CpsLineLengthStyleCalcNoSpaceCpsOnly>
     <CpsLineLengthStyleCalcNoSpace>Policz wszystko oprócz spacji</CpsLineLengthStyleCalcNoSpace>
     <CpsLineLengthStyleCalcCjk>CJK 1, Latin 0.5</CpsLineLengthStyleCalcCjk>
     <CpsLineLengthStyleCalcCjkNoSpace>CJK 1, Latin 0.5, spacja 0</CpsLineLengthStyleCalcCjkNoSpace>
