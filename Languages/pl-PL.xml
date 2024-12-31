@@ -2946,7 +2946,10 @@ Kontynuować?</RestoreDefaultSettingsMsg>
   </SpellCheck>
   <NetflixQualityCheck>
     <GlyphCheckReport>Znaleziono nieprawidłowy znak {0} w kolumnie {1}</GlyphCheckReport>
-    <WhiteSpaceCheckReport>W kolumnie {0} znaleziono nieprawidłową spację.</WhiteSpaceCheckReport>
+    <WhiteSpaceCheckForXReport>Znaleziono problem z białym znakiem ({0}) w kolumnie {1}.</WhiteSpaceCheckForXReport>
+    <WhiteSpaceLineEncding>zakończenie linii</WhiteSpaceLineEncding>
+    <WhiteSpaceBeforePunctuation>brak przed znakiem interpunkcyjnym</WhiteSpaceBeforePunctuation>
+    <WhiteSpaceCheckconsecutive>2+ z rzędu</WhiteSpaceCheckconsecutive>
     <ReportPrompt>Pełny raport można zobaczyć tutaj: {0}.</ReportPrompt>
     <OpenReportInFolder>Otwórz folder z raportem</OpenReportInFolder>
     <FoundXIssues>Kontrola jakości Netflix znalazła {0:#,##0} problemy/ów.</FoundXIssues>
