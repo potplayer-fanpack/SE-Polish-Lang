@@ -2946,7 +2946,7 @@ Kontynuować?</RestoreDefaultSettingsMsg>
   </SpellCheck>
   <NetflixQualityCheck>
     <GlyphCheckReport>Znaleziono nieprawidłowy znak {0} w kolumnie {1}</GlyphCheckReport>
-    <WhiteSpaceCheckForXReport>Znaleziono problem z białym znakiem ({0}) w kolumnie {1}.</WhiteSpaceCheckForXReport>
+    <WhiteSpaceCheckForXReport>Znaleziono problem ze spacją ({0}) w kolumnie {1}.</WhiteSpaceCheckForXReport>
     <WhiteSpaceLineEncding>zakończenie linii</WhiteSpaceLineEncding>
     <WhiteSpaceBeforePunctuation>brak przed znakiem interpunkcyjnym</WhiteSpaceBeforePunctuation>
     <WhiteSpaceCheckconsecutive>2+ z rzędu</WhiteSpaceCheckconsecutive>
