@@ -1542,6 +1542,7 @@ Wykorzystujemy naturalny rytm obrazu.</CreateSimpleChainingToolTip>
         <SplitLineAtCursorPosition>Podziel linię w pozycji kursora</SplitLineAtCursorPosition>
         <SplitLineAtCursorPositionAndAutoBr>Podziel linię w pozycji kursora i automatycznie przełam linię</SplitLineAtCursorPositionAndAutoBr>
         <SplitLineAtCursorAndWaveformPosition>Podziel linię w pozycji kursora/wideo</SplitLineAtCursorAndWaveformPosition>
+        <SplitLineAtCursorAndWaveformPositionPlay>Podziel linię w pozycji kursora/wideo i odtwórz</SplitLineAtCursorAndWaveformPositionPlay>
         <AutoDurationCurrentLine>Automatyczny czas trwania (bieżąca linia)</AutoDurationCurrentLine>
         <SelectAll>Zaznacz wszystko</SelectAll>
         <InsertFirstLine>Wstaw linię</InsertFirstLine>
