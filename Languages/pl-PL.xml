@@ -2338,6 +2338,7 @@ może edytować ten sam plik napisów (współpraca)</Information>
     <SettingsName>Ustawienia</SettingsName>
     <ToggleBookmarks>Przełączanie zakładek</ToggleBookmarks>
     <FocusTextBox>Koncentracja na polu tekstowym</FocusTextBox>
+    <CycleAudioTracks>Cykliczne ścieżki audio</CycleAudioTracks>
     <ToggleBookmarksWithComment>Przełączanie zakładek - dodaj komentarz</ToggleBookmarksWithComment>
     <ClearBookmarks>Wyczyść zakładki</ClearBookmarks>
     <ExportBookmarks>Eksportuj zakładki...</ExportBookmarks>
