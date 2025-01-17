@@ -2142,6 +2142,7 @@ Pobrać i kontynuować?</VideoFromUrlRequirements>
     <ExactlyTwoLines>Dokładnie dwie linie</ExactlyTwoLines>
     <MoreThanTwoLines>Więcej niż dwie linie</MoreThanTwoLines>
     <Bookmarked>Dodano do zakładek</Bookmarked>
+    <BookmarkContains>Zakładka zawiera</BookmarkContains>
     <BlankLines>Puste linie</BlankLines>
   </ModifySelection>
   <MultipleReplace>
