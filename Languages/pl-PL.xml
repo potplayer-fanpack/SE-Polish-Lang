@@ -3189,6 +3189,7 @@ Kontynuować?</RestoreDefaultSettingsMsg>
     <GeneratingSpeechFromTextXOfY>Generowanie mowy z tekstu: {0} / {1}...</GeneratingSpeechFromTextXOfY>
     <ReviewAudioClips>Przegląd klipów audio</ReviewAudioClips>
     <CustomAudioEncoding>Niestandardowe kodowanie audio</CustomAudioEncoding>
+    <UseVoiceOver>Użyj głosu</UseVoiceOver>
     <ReviewInfo>Przegląd i edycja/usuwanie klipów audio</ReviewInfo>
     <Play>Odtwarzaj</Play>
     <AutoContinue>Auto-kontynuacja</AutoContinue>
