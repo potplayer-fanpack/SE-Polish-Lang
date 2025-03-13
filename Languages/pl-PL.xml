@@ -605,6 +605,13 @@ Wykorzystujemy naturalny rytm obrazu.</CreateSimpleChainingToolTip>
     <OnlyLookForDifferencesInText>Szukaj tylko różnic w tekście</OnlyLookForDifferencesInText>
     <CannotCompareWithImageBasedSubtitles>Nie można porównać z napisami opartymi na obrazach</CannotCompareWithImageBasedSubtitles>
   </CompareSubtitles>
+  <ConvertActor>
+    <Title>Konwertuj aktorów</Title>
+    <ConvertActorFrom>Zmień aktora z</ConvertActorFrom>
+    <ConvertActorTo>Zmień aktora na</ConvertActorTo>
+    <InlineActorViaX>Wewnętrzny aktor za pomocą {0}</InlineActorViaX>
+    <NumberOfConversionsX>Liczba konwersji aktorów: {0}</NumberOfConversionsX>
+  </ConvertActor>
   <ConvertColorsToDialog>
     <Title>Konwersja kolorów do dialogów</Title>
     <RemoveColorTags>Usuń tagi kolorów</RemoveColorTags>
@@ -1401,6 +1408,7 @@ Wykorzystujemy naturalny rytm obrazu.</CreateSimpleChainingToolTip>
         <StartNumberingFrom>Zmień numerację...</StartNumberingFrom>
         <RemoveTextForHearingImpaired>Usuń tekst dla osób niedosłyszących...</RemoveTextForHearingImpaired>
         <ConvertColorsToDialog>Konwertuj kolory do dialogów...</ConvertColorsToDialog>
+        <ConvertActors>Konwertuj aktorów...</ConvertActors>
         <ChangeCasing>Zmień pisownię...</ChangeCasing>
         <ChangeFrameRate>Zmień liczbę klatek na sekundę...</ChangeFrameRate>
         <ChangeSpeedInPercent>Zmień szybkość (procentowo)...</ChangeSpeedInPercent>
