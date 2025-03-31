@@ -606,11 +606,11 @@ Wykorzystujemy naturalny rytm obrazu.</CreateSimpleChainingToolTip>
     <CannotCompareWithImageBasedSubtitles>Nie można porównać z napisami opartymi na obrazach</CannotCompareWithImageBasedSubtitles>
   </CompareSubtitles>
   <ConvertActor>
-    <Title>Konwertuj aktorów</Title>
-    <ConvertActorFrom>Zmień aktora z</ConvertActorFrom>
-    <ConvertActorTo>Zmień aktora na</ConvertActorTo>
-    <InlineActorViaX>Wewnętrzny aktor za pomocą {0}</InlineActorViaX>
-    <NumberOfConversionsX>Liczba konwersji aktorów: {0}</NumberOfConversionsX>
+    <Title>Konwersja aktorów</Title>
+    <ConvertActorFrom>Zmień z</ConvertActorFrom>
+    <ConvertActorTo>Zmień na</ConvertActorTo>
+    <InlineActorViaX>Aktor w linii za pomocą {0}</InlineActorViaX>
+    <NumberOfConversionsX>Liczba przekonwertowanych aktorów: {0}</NumberOfConversionsX>
   </ConvertActor>
   <ConvertColorsToDialog>
     <Title>Konwersja kolorów do dialogów</Title>
