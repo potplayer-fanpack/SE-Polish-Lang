@@ -610,7 +610,9 @@ Wykorzystujemy naturalny rytm obrazu.</CreateSimpleChainingToolTip>
     <ConvertActorFrom>Zmień z</ConvertActorFrom>
     <ConvertActorTo>Zmień na</ConvertActorTo>
     <InlineActorViaX>Aktor w linii za pomocą {0}</InlineActorViaX>
-    <NumberOfConversionsX>Liczba przekonwertowanych aktorów: {0}</NumberOfConversionsX>
+    <NumberOfConversionsX>Liczba konwersji aktorów: {0}</NumberOfConversionsX>
+    <SetColor>Ustaw kolor</SetColor>
+    <OnlyNames>Tylko nazwiska</OnlyNames>
   </ConvertActor>
   <ConvertColorsToDialog>
     <Title>Konwersja kolorów do dialogów</Title>
