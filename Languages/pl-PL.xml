@@ -2486,8 +2486,8 @@ może edytować ten sam plik napisów (współpraca)</Information>
     <SpectrogramAppearance>Wygląd spektrogramu</SpectrogramAppearance>
     <SpectrogramOneColorGradient>Wypełnienie gradientem w jednym kolorze</SpectrogramOneColorGradient>
     <SpectrogramClassic>Klasyczny</SpectrogramClassic>
-    <SpectrogramHeat>Ciepły</SpectrogramHeat>
-    <SpectrogramCyanToOrange>Cyjan do pomarańczowego</SpectrogramCyanToOrange>
+    <SpectrogramHeat>Ognisty</SpectrogramHeat>
+    <SpectrogramCyanToOrange>Od cyjanu do pomarańczowego</SpectrogramCyanToOrange>
     <SpectrogramWaveformOpacity>Nieprzezroczystość spektrogramu/wykresu falowego:</SpectrogramWaveformOpacity>
     <WaveformUseFFmpeg>Użyj FFmpeg do wyodrębnienia wykresu falowego</WaveformUseFFmpeg>
     <WaveformUseCenterChannelOnly>Użyj tylko przedniego kanału centralnego (dla 5.1/7.1)</WaveformUseCenterChannelOnly>
