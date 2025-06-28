@@ -3494,5 +3494,7 @@ Zachować te zmiany?</KeepChangesMessage>
     <HighlightCurrentWord>Podświetl bieżące słowo</HighlightCurrentWord>
     <SingleWords>Pojedyncze słowa</SingleWords>
     <Sentence>Zdanie</Sentence>
+    <EnableVad>Włącz VAD</EnableVad>
+    <VadModelNotFound>Nie znaleziono modelu VAD.</VadModelNotFound>
   </WhisperAdvanced>
 </Language>
